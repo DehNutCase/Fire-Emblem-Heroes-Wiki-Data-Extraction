@@ -1,1255 +1,67 @@
-Ryoma
 {
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Raijinto"
-    ]
-}
-Navarre
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Killing Edge",
-        "Killing Edge+"
-    ]
-}
-Ogma
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Brave Sword",
-        "Brave Sword+"
-    ]
-}
-Est
+"Shanna"
 {
     "weapons": [
         "Iron Lance",
         "Steel Lance",
-        "Heavy Spear",
-        "Heavy Spear+"
+        "Killer Lance",
+        "Killer Lance+"
     ]
 }
-Camilla
+}
 {
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Brave Axe",
-        "Brave Axe+"
-    ]
-}
-Raven
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Brave Axe",
-        "Brave Axe+"
-    ]
-}
-Corrin (M)
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Yato"
-    ]
-}
-Fir
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Killing Edge",
-        "Killing Edge+"
-    ]
-}
-Berkut
+"Abel"
 {
     "weapons": [
         "Iron Lance",
         "Steel Lance",
-        "Berkut's Lance",
-        "Berkut's Lance+"
+        "Brave Lance",
+        "Brave Lance+"
     ]
 }
-Camilla (Spring Festival)
+}
 {
-    "weapons": [
-        "Wind",
-        "Elwind",
-        "Green Egg",
-        "Green Egg+"
-    ]
-}
-Veronica
-{
-    "weapons": [
-        "Wind",
-        "Elwind",
-        "Rexcalibur",
-        "\u00c9liv\u00e1gar"
-    ]
-}
-Alfonse
+"Laslow"
 {
     "weapons": [
         "Iron Sword",
         "Steel Sword",
         "Silver Sword",
-        "F\u00f3lkvangr"
+        "Silver Sword+"
     ]
 }
-Nino
+}
 {
-    "weapons": [
-        "Wind",
-        "Elwind",
-        "Gronnblade",
-        "Gronnblade+"
-    ]
-}
-Lachesis
+"Lachesis"
 {
     "weapons": [
         "Assault",
         "Absorb"
     ]
 }
-Maria
-{
-    "weapons": [
-        "Assault",
-        "Panic"
-    ]
 }
-Jeorge
 {
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Silver Bow",
-        "Parthia"
-    ]
-}
-Tiki (Adult) (Ylissean Summer)
+"Minerva"
 {
     "weapons": [
         "Iron Axe",
         "Steel Axe",
-        "Melon Crusher",
-        "Melon Crusher+"
+        "Silver Axe",
+        "Hauteclere"
     ]
 }
-Faye
+}
 {
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Firesweep Bow",
-        "Firesweep Bow+"
-    ]
-}
-Azama
-{
-    "weapons": [
-        "Assault",
-        "Pain"
-    ]
-}
-Takumi
-{
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Silver Bow",
-        "Fujin Yumi"
-    ]
-}
-Boey
-{
-    "weapons": [
-        "Wind",
-        "Elwind",
-        "Gronnowl",
-        "Gronnowl+"
-    ]
-}
-Celica
-{
-    "weapons": [
-        "Fire",
-        "Elfire",
-        "Bolganone",
-        "Ragnarok"
-    ]
-}
-Robin (F)
-{
-    "weapons": [
-        "Wind",
-        "Elwind",
-        "Gronnwolf",
-        "Gronnwolf+"
-    ]
-}
-Lucina
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Falchion"
-    ]
-}
-Rebecca
-{
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Silver Bow",
-        "Silver Bow+"
-    ]
-}
-Gray
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Zanbato",
-        "Zanbato+"
-    ]
-}
-Hana
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Armorslayer",
-        "Armorslayer+"
-    ]
-}
-Arthur
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Emerald Axe",
-        "Emerald Axe+"
-    ]
-}
-Cecilia
-{
-    "weapons": [
-        "Wind",
-        "Elwind",
-        "Gronnraven",
-        "Gronnraven+"
-    ]
-}
-Legion
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Legion's Axe",
-        "Legion's Axe+"
-    ]
-}
-Julia
-{
-    "weapons": [
-        "Wind",
-        "Elwind",
-        "Rexcalibur",
-        "Naga"
-    ]
-}
-Charlotte (Bridal Blessings)
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "First Bite",
-        "First Bite+"
-    ]
-}
-Oboro
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Heavy Spear",
-        "Heavy Spear+"
-    ]
-}
-Odin
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Bl\u00e1rblade",
-        "Bl\u00e1rblade+"
-    ]
-}
-Gwendolyn
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Killer Lance",
-        "Killer Lance+"
-    ]
-}
-Chrom (Spring Festival)
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Carrot Axe",
-        "Carrot Axe+"
-    ]
-}
-Xander (Spring Festival)
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Carrot Lance",
-        "Carrot Lance+"
-    ]
-}
-Tharja
-{
-    "weapons": [
-        "Flux",
-        "Ruin",
-        "Rau\u00f0rblade",
-        "Rau\u00f0rblade+"
-    ]
-}
-Florina
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Heavy Spear",
-        "Heavy Spear+"
-    ]
-}
-Jaffar
-{
-    "weapons": [
-        "Iron Dagger",
-        "Steel Dagger",
-        "Silver Dagger",
-        "Deathly Dagger"
-    ]
-}
-Luke
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Brave Sword",
-        "Brave Sword+"
-    ]
-}
-Frederick
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Hammer",
-        "Hammer+"
-    ]
-}
-Mist
-{
-    "weapons": [
-        "Assault",
-        "Slow"
-    ]
-}
-Nowi
-{
-    "weapons": [
-        "Fire Breath",
-        "Fire Breath+",
-        "Lightning Breath",
-        "Lightning Breath+"
-    ]
-}
-Caeda (Bridal Blessings)
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Blessed Bouquet",
-        "Blessed Bouquet+"
-    ]
-}
-Eirika
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Sieglinde"
-    ]
-}
-Raigh
-{
-    "weapons": [
-        "Flux",
-        "Ruin",
-        "Rau\u00f0rwolf",
-        "Rau\u00f0rwolf+"
-    ]
-}
-Barst
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Brave Axe",
-        "Brave Axe+"
-    ]
-}
-Delthea
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Thoron",
-        "Dark Aura"
-    ]
-}
-Tiki (Young)
-{
-    "weapons": [
-        "Fire Breath",
-        "Fire Breath+",
-        "Flametongue",
-        "Flametongue+"
-    ]
-}
-Jakob
-{
-    "weapons": [
-        "Iron Dagger",
-        "Steel Dagger",
-        "Silver Dagger",
-        "Silver Dagger+"
-    ]
-}
-Peri
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Killer Lance",
-        "Killer Lance+"
-    ]
-}
-Virion
-{
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Silver Bow",
-        "Silver Bow+"
-    ]
-}
-Roy
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Binding Blade"
-    ]
-}
-Karel
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Wo Dao",
-        "Wo Dao+"
-    ]
-}
-Sheena
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Killer Axe",
-        "Killer Axe+"
-    ]
-}
-Sully
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Sapphire Lance",
-        "Sapphire Lance+"
-    ]
-}
-Beruka
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Killer Axe",
-        "Killer Axe+"
-    ]
-}
-Eliwood
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Durandal"
-    ]
-}
-Saizo
-{
-    "weapons": [
-        "Iron Dagger",
-        "Steel Dagger",
-        "Smoke Dagger",
-        "Smoke Dagger+"
-    ]
-}
-Setsuna
-{
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Assassin's Bow",
-        "Assassin's Bow+"
-    ]
-}
-Wrys
-{
-    "weapons": [
-        "Assault",
-        "Slow"
-    ]
-}
-Effie
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Silver Lance",
-        "Silver Lance+"
-    ]
-}
-Reinhardt
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Thoron",
-        "Dire Thunder"
-    ]
-}
-Selena
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Armorslayer",
-        "Armorslayer+"
-    ]
-}
-Lissa
+"Elise"
 {
     "weapons": [
         "Assault",
         "Gravity"
     ]
 }
-Narcian
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Emerald Axe",
-        "Emerald Axe+"
-    ]
-}
-Anna
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Silver Axe",
-        "N\u00f3at\u00fan"
-    ]
-}
-Ninian
-{
-    "weapons": [
-        "Fire Breath",
-        "Fire Breath+",
-        "Light Breath",
-        "Light Breath+"
-    ]
-}
-Shanna
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Killer Lance",
-        "Killer Lance+"
-    ]
-}
-Linde
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Thoron",
-        "Aura"
-    ]
-}
-Alm
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Falchion"
-    ]
-}
-Minerva
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Silver Axe",
-        "Hauteclere"
-    ]
-}
-Ike
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Ragnell"
-    ]
-}
-Ephraim
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Heavy Spear",
-        "Siegmund"
-    ]
-}
-Subaki
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Sapphire Lance",
-        "Sapphire Lance+"
-    ]
-}
-Eldigan
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Killing Edge",
-        "Mystletainn"
-    ]
-}
-Abel
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Brave Lance",
-        "Brave Lance+"
-    ]
-}
-Kagero
-{
-    "weapons": [
-        "Iron Dagger",
-        "Steel Dagger",
-        "Poison Dagger",
-        "Poison Dagger+"
-    ]
-}
-Lilina
-{
-    "weapons": [
-        "Fire",
-        "Elfire",
-        "Bolganone",
-        "Bolganone+"
-    ]
-}
-Saber
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Slaying Edge",
-        "Slaying Edge+"
-    ]
-}
-Gaius
-{
-    "weapons": [
-        "Iron Dagger",
-        "Steel Dagger",
-        "Rogue Dagger",
-        "Rogue Dagger+"
-    ]
-}
-Sonya
-{
-    "weapons": [
-        "Wind",
-        "Elwind",
-        "Rexcalibur",
-        "Dark Excalibur"
-    ]
-}
-Clarisse
-{
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Clarisse's Bow",
-        "Clarisse's Bow+"
-    ]
-}
-Felicia
-{
-    "weapons": [
-        "Iron Dagger",
-        "Steel Dagger",
-        "Silver Dagger",
-        "Silver Dagger+"
-    ]
-}
-Donnel
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Brave Lance",
-        "Brave Lance+"
-    ]
-}
-Lloyd
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Regal Blade"
-    ]
-}
-Chrom
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Falchion"
-    ]
-}
-Katarina
-{
-    "weapons": [
-        "Fire",
-        "Elfire",
-        "Rau\u00f0rowl",
-        "Rau\u00f0rowl+"
-    ]
-}
-Clair
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Silver Lance",
-        "Silver Lance+"
-    ]
-}
-Sophia
-{
-    "weapons": [
-        "Flux",
-        "Ruin",
-        "Fenrir",
-        "Fenrir+"
-    ]
-}
-Hawkeye
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Killer Axe",
-        "Killer Axe+"
-    ]
-}
-Ursula
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Bl\u00e1rwolf",
-        "Bl\u00e1rwolf+"
-    ]
-}
-Gordin
-{
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Brave Bow",
-        "Brave Bow+"
-    ]
-}
-Athena
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Wo Dao",
-        "Wo Dao+"
-    ]
-}
-Jagen
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Silver Lance",
-        "Silver Lance+"
-    ]
-}
-Leo
-{
-    "weapons": [
-        "Flux",
-        "Ruin",
-        "Fenrir",
-        "Brynhildr"
-    ]
-}
-Hinata
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Ruby Sword",
-        "Ruby Sword+"
-    ]
-}
-Matthew
-{
-    "weapons": [
-        "Iron Dagger",
-        "Steel Dagger",
-        "Rogue Dagger",
-        "Rogue Dagger+"
-    ]
-}
-Cordelia
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Brave Lance",
-        "Brave Lance+"
-    ]
-}
-Michalis
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Silver Axe",
-        "Hauteclere"
-    ]
-}
-Lyn (Bridal Blessings)
-{
-    "weapons": [
-        "Assault",
-        "Candlelight"
-    ]
-}
-Niles
-{
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Killer Bow",
-        "Killer Bow+"
-    ]
-}
-Mae
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Bl\u00e1rowl",
-        "Bl\u00e1rowl+"
-    ]
 }
-Sakura
 {
-    "weapons": [
-        "Assault",
-        "Fear"
-    ]
-}
-Lucina (Spring Festival)
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Blue Egg",
-        "Blue Egg+"
-    ]
-}
-Tobin
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Armorslayer",
-        "Armorslayer+"
-    ]
-}
-Cordelia (Bridal Blessings)
-{
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Cupid Arrow",
-        "Cupid Arrow+"
-    ]
-}
-Robin (F) (Ylissean Summer)
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Deft Harpoon",
-        "Deft Harpoon+"
-    ]
-}
-Hector
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Silver Axe",
-        "Armads"
-    ]
-}
-Serra
-{
-    "weapons": [
-        "Assault",
-        "Absorb"
-    ]
-}
-Hinoka
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Brave Lance",
-        "Brave Lance+"
-    ]
-}
-Marth
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Falchion"
-    ]
-}
-Leon
-{
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Slaying Bow",
-        "Slaying Bow+"
-    ]
-}
-Frederick (Ylissean Summer)
-{
-    "weapons": [
-        "Iron Dagger",
-        "Steel Dagger",
-        "Seashell",
-        "Seashell+"
-    ]
-}
-Priscilla
-{
-    "weapons": [
-        "Assault",
-        "Panic"
-    ]
-}
-Sanaki
-{
-    "weapons": [
-        "Fire",
-        "Elfire",
-        "Bolganone",
-        "Cymbeline"
-    ]
-}
-Zephiel
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Eckesachs"
-    ]
-}
-Lukas
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Killer Lance",
-        "Killer Lance+"
-    ]
-}
-Robin (M)
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Bl\u00e1rraven",
-        "Bl\u00e1rraven+"
-    ]
-}
-Titania
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Emerald Axe",
-        "Emerald Axe+"
-    ]
-}
-Palla
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Ruby Sword",
-        "Ruby Sword+"
-    ]
-}
-Merric
-{
-    "weapons": [
-        "Wind",
-        "Elwind",
-        "Rexcalibur",
-        "Excalibur"
-    ]
-}
-Soren
-{
-    "weapons": [
-        "Wind",
-        "Elwind",
-        "Rexcalibur",
-        "Rexcalibur+"
-    ]
-}
-Lyn
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Sol Katti"
-    ]
-}
-Laslow
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Silver Sword+"
-    ]
-}
-Olwen
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Thoron",
-        "Dire Thunder"
-    ]
-}
-Xander
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Siegfried"
-    ]
-}
-Fae
-{
-    "weapons": [
-        "Fire Breath",
-        "Fire Breath+",
-        "Light Breath",
-        "Light Breath+"
-    ]
-}
-Tiki (Adult)
-{
-    "weapons": [
-        "Fire Breath",
-        "Fire Breath+",
-        "Lightning Breath",
-        "Lightning Breath+"
-    ]
-}
-Olivia
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Silver Sword+"
-    ]
-}
-Mathilda
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Ridersbane",
-        "Ridersbane+"
-    ]
-}
-Caeda
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Armorslayer",
-        "Armorslayer+"
-    ]
-}
-Cherche
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Hammer",
-        "Hammer+"
-    ]
-}
-Seliph
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Tyrfing"
-    ]
-}
-Catria
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Killer Lance",
-        "Killer Lance+"
-    ]
-}
-Gunter
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Silver Axe",
-        "Silver Axe+"
-    ]
-}
-Lucius
-{
-    "weapons": [
-        "Assault",
-        "Pain"
-    ]
-}
-Clive
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Silver Lance",
-        "Silver Lance+"
-    ]
-}
-Special Maps
-{
-    "weapons": []
-}
-Azura
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Sapphire Lance",
-        "Sapphire Lance+"
-    ]
-}
-Bartre
-{
-    "weapons": [
-        "Iron Axe",
-        "Steel Axe",
-        "Hammer",
-        "Hammer+"
-    ]
-}
-Corrin (F)
+"Corrin (F)"
 {
     "weapons": [
         "Fire Breath",
@@ -1258,100 +70,9 @@ Corrin (F)
         "Dark Breath+"
     ]
 }
-Bruno
-{
-    "weapons": [
-        "Thunder",
-        "Elthunder",
-        "Thoron",
-        "Valaskj\u00e1lf"
-    ]
 }
-Elise
 {
-    "weapons": [
-        "Assault",
-        "Gravity"
-    ]
-}
-Sharena
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Silver Lance",
-        "Fensalir"
-    ]
-}
-Cain
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Brave Sword",
-        "Brave Sword+"
-    ]
-}
-Gaius (Ylissean Summer)
-{
-    "weapons": [
-        "Iron Bow",
-        "Steel Bow",
-        "Refreshing Bolt",
-        "Refreshing Bolt+"
-    ]
-}
-Marth (Masked)
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Silver Sword",
-        "Falchion"
-    ]
-}
-Camus
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Silver Lance",
-        "Gradivus"
-    ]
-}
-Clarine
-{
-    "weapons": [
-        "Assault",
-        "Fear"
-    ]
-}
-Draug
-{
-    "weapons": [
-        "Iron Sword",
-        "Steel Sword",
-        "Brave Sword",
-        "Brave Sword+"
-    ]
-}
-Roderick
-{
-    "weapons": [
-        "Iron Lance",
-        "Steel Lance",
-        "Firesweep Lance",
-        "Firesweep Lance+"
-    ]
-}
-Genny
-{
-    "weapons": [
-        "Assault",
-        "Gravity"
-    ]
-}
-Klein
+"Gordin"
 {
     "weapons": [
         "Iron Bow",
@@ -1360,7 +81,282 @@ Klein
         "Brave Bow+"
     ]
 }
-Stahl
+}
+{
+"Xander"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Siegfried"
+    ]
+}
+}
+{
+"Lucina"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Falchion"
+    ]
+}
+}
+{
+"Tiki (Adult)"
+{
+    "weapons": [
+        "Fire Breath",
+        "Fire Breath+",
+        "Lightning Breath",
+        "Lightning Breath+"
+    ]
+}
+}
+{
+"Gaius (Ylissean Summer)"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Refreshing Bolt",
+        "Refreshing Bolt+"
+    ]
+}
+}
+{
+"Ike"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Ragnell"
+    ]
+}
+}
+{
+"Lyn (Bridal Blessings)"
+{
+    "weapons": [
+        "Assault",
+        "Candlelight"
+    ]
+}
+}
+{
+"Sharena"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Silver Lance",
+        "Fensalir"
+    ]
+}
+}
+{
+"Sheena"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Killer Axe",
+        "Killer Axe+"
+    ]
+}
+}
+{
+"Lyn"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Sol Katti"
+    ]
+}
+}
+{
+"Hinoka"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Brave Lance",
+        "Brave Lance+"
+    ]
+}
+}
+{
+"Florina"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Heavy Spear",
+        "Heavy Spear+"
+    ]
+}
+}
+{
+"Camilla (Spring Festival)"
+{
+    "weapons": [
+        "Wind",
+        "Elwind",
+        "Green Egg",
+        "Green Egg+"
+    ]
+}
+}
+{
+"Eldigan"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Killing Edge",
+        "Mystletainn"
+    ]
+}
+}
+{
+"Hawkeye"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Killer Axe",
+        "Killer Axe+"
+    ]
+}
+}
+{
+"Navarre"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Killing Edge",
+        "Killing Edge+"
+    ]
+}
+}
+{
+"Faye"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Firesweep Bow",
+        "Firesweep Bow+"
+    ]
+}
+}
+{
+"Reinhardt"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Thoron",
+        "Dire Thunder"
+    ]
+}
+}
+{
+"Jakob"
+{
+    "weapons": [
+        "Iron Dagger",
+        "Steel Dagger",
+        "Silver Dagger",
+        "Silver Dagger+"
+    ]
+}
+}
+{
+"Lloyd"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Regal Blade"
+    ]
+}
+}
+{
+"Effie"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Silver Lance",
+        "Silver Lance+"
+    ]
+}
+}
+{
+"Clarisse"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Clarisse's Bow",
+        "Clarisse's Bow+"
+    ]
+}
+}
+{
+"Leo"
+{
+    "weapons": [
+        "Flux",
+        "Ruin",
+        "Fenrir",
+        "Brynhildr"
+    ]
+}
+}
+{
+"Raven"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Brave Axe",
+        "Brave Axe+"
+    ]
+}
+}
+{
+"Barst"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Brave Axe",
+        "Brave Axe+"
+    ]
+}
+}
+{
+"Catria"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Killer Lance",
+        "Killer Lance+"
+    ]
+}
+}
+{
+"Palla"
 {
     "weapons": [
         "Iron Sword",
@@ -1369,7 +365,999 @@ Stahl
         "Ruby Sword+"
     ]
 }
-Henry
+}
+{
+"Xander (Spring Festival)"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Carrot Lance",
+        "Carrot Lance+"
+    ]
+}
+}
+{
+"Subaki"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Sapphire Lance",
+        "Sapphire Lance+"
+    ]
+}
+}
+{
+"Chrom (Spring Festival)"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Carrot Axe",
+        "Carrot Axe+"
+    ]
+}
+}
+{
+"Chrom"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Falchion"
+    ]
+}
+}
+{
+"Felicia"
+{
+    "weapons": [
+        "Iron Dagger",
+        "Steel Dagger",
+        "Silver Dagger",
+        "Silver Dagger+"
+    ]
+}
+}
+{
+"Clarine"
+{
+    "weapons": [
+        "Assault",
+        "Fear"
+    ]
+}
+}
+{
+"Lucina (Spring Festival)"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Blue Egg",
+        "Blue Egg+"
+    ]
+}
+}
+{
+"Genny"
+{
+    "weapons": [
+        "Assault",
+        "Gravity"
+    ]
+}
+}
+{
+"Wrys"
+{
+    "weapons": [
+        "Assault",
+        "Slow"
+    ]
+}
+}
+{
+"Robin (F)"
+{
+    "weapons": [
+        "Wind",
+        "Elwind",
+        "Gronnwolf",
+        "Gronnwolf+"
+    ]
+}
+}
+{
+"Anna"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Silver Axe",
+        "N\u00f3at\u00fan"
+    ]
+}
+}
+{
+"Frederick"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Hammer",
+        "Hammer+"
+    ]
+}
+}
+{
+"Caeda"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Armorslayer",
+        "Armorslayer+"
+    ]
+}
+}
+{
+"Jaffar"
+{
+    "weapons": [
+        "Iron Dagger",
+        "Steel Dagger",
+        "Silver Dagger",
+        "Deathly Dagger"
+    ]
+}
+}
+{
+"Lilina"
+{
+    "weapons": [
+        "Fire",
+        "Elfire",
+        "Bolganone",
+        "Bolganone+"
+    ]
+}
+}
+{
+"Gwendolyn"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Killer Lance",
+        "Killer Lance+"
+    ]
+}
+}
+{
+"Tiki (Young)"
+{
+    "weapons": [
+        "Fire Breath",
+        "Fire Breath+",
+        "Flametongue",
+        "Flametongue+"
+    ]
+}
+}
+{
+"Gray"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Zanbato",
+        "Zanbato+"
+    ]
+}
+}
+{
+"Lissa"
+{
+    "weapons": [
+        "Assault",
+        "Gravity"
+    ]
+}
+}
+{
+"Eirika"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Sieglinde"
+    ]
+}
+}
+{
+"Mae"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Bl\u00e1rowl",
+        "Bl\u00e1rowl+"
+    ]
+}
+}
+{
+"Camilla"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Brave Axe",
+        "Brave Axe+"
+    ]
+}
+}
+{
+"Leon"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Slaying Bow",
+        "Slaying Bow+"
+    ]
+}
+}
+{
+"Ninian"
+{
+    "weapons": [
+        "Fire Breath",
+        "Fire Breath+",
+        "Light Breath",
+        "Light Breath+"
+    ]
+}
+}
+{
+"Bruno"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Thoron",
+        "Valaskj\u00e1lf"
+    ]
+}
+}
+{
+"Ephraim"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Heavy Spear",
+        "Siegmund"
+    ]
+}
+}
+{
+"Veronica"
+{
+    "weapons": [
+        "Wind",
+        "Elwind",
+        "Rexcalibur",
+        "\u00c9liv\u00e1gar"
+    ]
+}
+}
+{
+"Tobin"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Armorslayer",
+        "Armorslayer+"
+    ]
+}
+}
+{
+"Alm"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Falchion"
+    ]
+}
+}
+{
+"Eliwood"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Durandal"
+    ]
+}
+}
+{
+"Jeorge"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Silver Bow",
+        "Parthia"
+    ]
+}
+}
+{
+"Saizo"
+{
+    "weapons": [
+        "Iron Dagger",
+        "Steel Dagger",
+        "Smoke Dagger",
+        "Smoke Dagger+"
+    ]
+}
+}
+{
+"Fae"
+{
+    "weapons": [
+        "Fire Breath",
+        "Fire Breath+",
+        "Light Breath",
+        "Light Breath+"
+    ]
+}
+}
+{
+"Cordelia (Bridal Blessings)"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Cupid Arrow",
+        "Cupid Arrow+"
+    ]
+}
+}
+{
+"Azama"
+{
+    "weapons": [
+        "Assault",
+        "Pain"
+    ]
+}
+}
+{
+"Sakura"
+{
+    "weapons": [
+        "Assault",
+        "Fear"
+    ]
+}
+}
+{
+"Bartre"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Hammer",
+        "Hammer+"
+    ]
+}
+}
+{
+"Robin (F) (Ylissean Summer)"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Deft Harpoon",
+        "Deft Harpoon+"
+    ]
+}
+}
+{
+"Oboro"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Heavy Spear",
+        "Heavy Spear+"
+    ]
+}
+}
+{
+"Lucius"
+{
+    "weapons": [
+        "Assault",
+        "Pain"
+    ]
+}
+}
+{
+"Marth (Masked)"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Falchion"
+    ]
+}
+}
+{
+"Selena"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Armorslayer",
+        "Armorslayer+"
+    ]
+}
+}
+{
+"Linde"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Thoron",
+        "Aura"
+    ]
+}
+}
+{
+"Raigh"
+{
+    "weapons": [
+        "Flux",
+        "Ruin",
+        "Rau\u00f0rwolf",
+        "Rau\u00f0rwolf+"
+    ]
+}
+}
+{
+"Matthew"
+{
+    "weapons": [
+        "Iron Dagger",
+        "Steel Dagger",
+        "Rogue Dagger",
+        "Rogue Dagger+"
+    ]
+}
+}
+{
+"Priscilla"
+{
+    "weapons": [
+        "Assault",
+        "Panic"
+    ]
+}
+}
+{
+"Serra"
+{
+    "weapons": [
+        "Assault",
+        "Absorb"
+    ]
+}
+}
+{
+"Kagero"
+{
+    "weapons": [
+        "Iron Dagger",
+        "Steel Dagger",
+        "Poison Dagger",
+        "Poison Dagger+"
+    ]
+}
+}
+{
+"Titania"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Emerald Axe",
+        "Emerald Axe+"
+    ]
+}
+}
+{
+"Sanaki"
+{
+    "weapons": [
+        "Fire",
+        "Elfire",
+        "Bolganone",
+        "Cymbeline"
+    ]
+}
+}
+{
+"Saber"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Slaying Edge",
+        "Slaying Edge+"
+    ]
+}
+}
+{
+"Cain"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Brave Sword",
+        "Brave Sword+"
+    ]
+}
+}
+{
+"Mathilda"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Ridersbane",
+        "Ridersbane+"
+    ]
+}
+}
+{
+"Marth"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Falchion"
+    ]
+}
+}
+{
+"Donnel"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Brave Lance",
+        "Brave Lance+"
+    ]
+}
+}
+{
+"Est"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Heavy Spear",
+        "Heavy Spear+"
+    ]
+}
+}
+{
+"Arthur"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Emerald Axe",
+        "Emerald Axe+"
+    ]
+}
+}
+{
+"Soren"
+{
+    "weapons": [
+        "Wind",
+        "Elwind",
+        "Rexcalibur",
+        "Rexcalibur+"
+    ]
+}
+}
+{
+"Setsuna"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Assassin's Bow",
+        "Assassin's Bow+"
+    ]
+}
+}
+{
+"Klein"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Brave Bow",
+        "Brave Bow+"
+    ]
+}
+}
+{
+"Hana"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Armorslayer",
+        "Armorslayer+"
+    ]
+}
+}
+{
+"Nino"
+{
+    "weapons": [
+        "Wind",
+        "Elwind",
+        "Gronnblade",
+        "Gronnblade+"
+    ]
+}
+}
+{
+"Charlotte (Bridal Blessings)"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "First Bite",
+        "First Bite+"
+    ]
+}
+}
+{
+"Jagen"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Silver Lance",
+        "Silver Lance+"
+    ]
+}
+}
+{
+"Maria"
+{
+    "weapons": [
+        "Assault",
+        "Panic"
+    ]
+}
+}
+{
+"Katarina"
+{
+    "weapons": [
+        "Fire",
+        "Elfire",
+        "Rau\u00f0rowl",
+        "Rau\u00f0rowl+"
+    ]
+}
+}
+{
+"Athena"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Wo Dao",
+        "Wo Dao+"
+    ]
+}
+}
+{
+"Gunter"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Silver Axe",
+        "Silver Axe+"
+    ]
+}
+}
+{
+"Fir"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Killing Edge",
+        "Killing Edge+"
+    ]
+}
+}
+{
+"Hector"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Silver Axe",
+        "Armads"
+    ]
+}
+}
+{
+"Julia"
+{
+    "weapons": [
+        "Wind",
+        "Elwind",
+        "Rexcalibur",
+        "Naga"
+    ]
+}
+}
+{
+"Tharja"
+{
+    "weapons": [
+        "Flux",
+        "Ruin",
+        "Rau\u00f0rblade",
+        "Rau\u00f0rblade+"
+    ]
+}
+}
+{
+"Karel"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Wo Dao",
+        "Wo Dao+"
+    ]
+}
+}
+{
+"Ursula"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Bl\u00e1rwolf",
+        "Bl\u00e1rwolf+"
+    ]
+}
+}
+{
+"Merric"
+{
+    "weapons": [
+        "Wind",
+        "Elwind",
+        "Rexcalibur",
+        "Excalibur"
+    ]
+}
+}
+{
+"Olwen"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Thoron",
+        "Dire Thunder"
+    ]
+}
+}
+{
+"Narcian"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Emerald Axe",
+        "Emerald Axe+"
+    ]
+}
+}
+{
+"Nowi"
+{
+    "weapons": [
+        "Fire Breath",
+        "Fire Breath+",
+        "Lightning Breath",
+        "Lightning Breath+"
+    ]
+}
+}
+{
+"Delthea"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Thoron",
+        "Dark Aura"
+    ]
+}
+}
+{
+"Ogma"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Brave Sword",
+        "Brave Sword+"
+    ]
+}
+}
+{
+"Cecilia"
+{
+    "weapons": [
+        "Wind",
+        "Elwind",
+        "Gronnraven",
+        "Gronnraven+"
+    ]
+}
+}
+{
+"Seliph"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Tyrfing"
+    ]
+}
+}
+{
+"Mist"
+{
+    "weapons": [
+        "Assault",
+        "Slow"
+    ]
+}
+}
+{
+"Olivia"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Silver Sword+"
+    ]
+}
+}
+{
+"Clive"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Silver Lance",
+        "Silver Lance+"
+    ]
+}
+}
+{
+"Frederick (Ylissean Summer)"
+{
+    "weapons": [
+        "Iron Dagger",
+        "Steel Dagger",
+        "Seashell",
+        "Seashell+"
+    ]
+}
+}
+{
+"Lukas"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Killer Lance",
+        "Killer Lance+"
+    ]
+}
+}
+{
+"Niles"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Killer Bow",
+        "Killer Bow+"
+    ]
+}
+}
+{
+"Beruka"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Killer Axe",
+        "Killer Axe+"
+    ]
+}
+}
+{
+"Peri"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Killer Lance",
+        "Killer Lance+"
+    ]
+}
+}
+{
+"Luke"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Brave Sword",
+        "Brave Sword+"
+    ]
+}
+}
+{
+"Draug"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Brave Sword",
+        "Brave Sword+"
+    ]
+}
+}
+{
+"Henry"
 {
     "weapons": [
         "Flux",
@@ -1377,4 +1365,330 @@ Henry
         "Rau\u00f0rraven",
         "Rau\u00f0rraven+"
     ]
+}
+}
+{
+"Roy"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Binding Blade"
+    ]
+}
+}
+{
+"Azura"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Sapphire Lance",
+        "Sapphire Lance+"
+    ]
+}
+}
+{
+"Odin"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Bl\u00e1rblade",
+        "Bl\u00e1rblade+"
+    ]
+}
+}
+{
+"Berkut"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Berkut's Lance",
+        "Berkut's Lance+"
+    ]
+}
+}
+{
+"Sully"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Sapphire Lance",
+        "Sapphire Lance+"
+    ]
+}
+}
+{
+"Zephiel"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Eckesachs"
+    ]
+}
+}
+{
+"Alfonse"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "F\u00f3lkvangr"
+    ]
+}
+}
+{
+"Sonya"
+{
+    "weapons": [
+        "Wind",
+        "Elwind",
+        "Rexcalibur",
+        "Dark Excalibur"
+    ]
+}
+}
+{
+"Corrin (M)"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Yato"
+    ]
+}
+}
+{
+"Takumi"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Silver Bow",
+        "Fujin Yumi"
+    ]
+}
+}
+{
+"Camus"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Silver Lance",
+        "Gradivus"
+    ]
+}
+}
+{
+"Legion"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Legion's Axe",
+        "Legion's Axe+"
+    ]
+}
+}
+{
+"Tiki (Adult) (Ylissean Summer)"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Melon Crusher",
+        "Melon Crusher+"
+    ]
+}
+}
+{
+"Gaius"
+{
+    "weapons": [
+        "Iron Dagger",
+        "Steel Dagger",
+        "Rogue Dagger",
+        "Rogue Dagger+"
+    ]
+}
+}
+{
+"Hinata"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Ruby Sword",
+        "Ruby Sword+"
+    ]
+}
+}
+{
+"Cherche"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Hammer",
+        "Hammer+"
+    ]
+}
+}
+{
+"Michalis"
+{
+    "weapons": [
+        "Iron Axe",
+        "Steel Axe",
+        "Silver Axe",
+        "Hauteclere"
+    ]
+}
+}
+{
+"Ryoma"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Silver Sword",
+        "Raijinto"
+    ]
+}
+}
+{
+"Stahl"
+{
+    "weapons": [
+        "Iron Sword",
+        "Steel Sword",
+        "Ruby Sword",
+        "Ruby Sword+"
+    ]
+}
+}
+{
+"Virion"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Silver Bow",
+        "Silver Bow+"
+    ]
+}
+}
+{
+"Celica"
+{
+    "weapons": [
+        "Fire",
+        "Elfire",
+        "Bolganone",
+        "Ragnarok"
+    ]
+}
+}
+{
+"Cordelia"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Brave Lance",
+        "Brave Lance+"
+    ]
+}
+}
+{
+"Roderick"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Firesweep Lance",
+        "Firesweep Lance+"
+    ]
+}
+}
+{
+"Special Maps"
+{
+    "weapons": []
+}
+}
+{
+"Boey"
+{
+    "weapons": [
+        "Wind",
+        "Elwind",
+        "Gronnowl",
+        "Gronnowl+"
+    ]
+}
+}
+{
+"Robin (M)"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Bl\u00e1rraven",
+        "Bl\u00e1rraven+"
+    ]
+}
+}
+{
+"Caeda (Bridal Blessings)"
+{
+    "weapons": [
+        "Thunder",
+        "Elthunder",
+        "Blessed Bouquet",
+        "Blessed Bouquet+"
+    ]
+}
+}
+{
+"Sophia"
+{
+    "weapons": [
+        "Flux",
+        "Ruin",
+        "Fenrir",
+        "Fenrir+"
+    ]
+}
+}
+{
+"Rebecca"
+{
+    "weapons": [
+        "Iron Bow",
+        "Steel Bow",
+        "Silver Bow",
+        "Silver Bow+"
+    ]
+}
+}
+{
+"Clair"
+{
+    "weapons": [
+        "Iron Lance",
+        "Steel Lance",
+        "Silver Lance",
+        "Silver Lance+"
+    ]
+}
 }
