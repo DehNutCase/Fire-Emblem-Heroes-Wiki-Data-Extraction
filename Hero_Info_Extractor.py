@@ -40,8 +40,9 @@ for x in list_of_names:
     output_dictionary[x] = {'weapons' : weapon_list}
 
 for x in output_dictionary:
+        print("{")
         print("\"" + x + "\"")
         print(json.dumps(output_dictionary[x], sort_keys=True, indent=4))
-    
+        print("}")
     
 #print('done')
