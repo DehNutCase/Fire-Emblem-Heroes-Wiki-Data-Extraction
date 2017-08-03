@@ -37,12 +37,9 @@ for x in list_of_names:
         if (counter % 3 ) == 0:
             weapon_list.append(y)
       
-    output_dictionary[x] = {'weapons' : weapon_list}
+    output_dictionary[x] = {'weapons' : str(weapon_list)[1:-1], 'name' : x}
 
 for x in output_dictionary:
-        print("{")
-        print("\"" + x + "\"")
         print(json.dumps(output_dictionary[x], sort_keys=True, indent=4))
-        print("}")
     
 #print('done')
