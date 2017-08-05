@@ -30,16 +30,31 @@ for x in list_of_names:
     #getting the list of weapon names
 
     weapon_list = []
-    temp = re.split(r"(weapon\d=)(.+)", str(site.Pages[x].text(2)))
-    counter = 0
+    temp = re.findall(r"weapon\d=(.+)", site.Pages[x].text(2))
     for y in temp:
-        counter += 1
-        if (counter % 3 ) == 0:
-            weapon_list.append(y)
-      
+        weapon_list.append(y)
     output_dictionary[x] = {'Weapons' : weapon_list}
+    
+    #getting a, b, c passives
+   
+    
+    a_passive_list = []
+    temp = re.findall(r"passiveA\d=([\w ]+)", site.Pages[x].text(5))
+    for y in temp:
+        a_passive_list.append(y)
+    output_dictionary[x]['A_Passives'] = a_passive_list
+    
+    b_passive_list = []
+    temp = re.findall(r"passiveB\d=([\w ]+)", site.Pages[x].text(5))
+    for y in temp:
+        b_passive_list.append(y)
+    output_dictionary[x]['B_Passives'] = b_passive_list
+    
+    c_passive_list = []
+    temp = re.findall(r"passiveC\d=([\w ]+)", site.Pages[x].text(5))
+    for y in temp:
+        c_passive_list.append(y)
+    output_dictionary[x]['C_Passives'] = c_passive_list
 
 
 print(json.dumps(output_dictionary, sort_keys=True, indent=4))
-    
-#print('done')
