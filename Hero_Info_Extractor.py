@@ -39,19 +39,19 @@ for x in list_of_names:
    
     
     a_passive_list = []
-    temp = re.findall(r"passiveA\d=([\w ]+)", site.Pages[x].text(5))
+    temp = re.findall(r"passiveA\d=([\w \+]+)", site.Pages[x].text(5))
     for y in temp:
         a_passive_list.append(y)
     output_dictionary[x]['A_Passives'] = a_passive_list
     
     b_passive_list = []
-    temp = re.findall(r"passiveB\d=([\w ]+)", site.Pages[x].text(5))
+    temp = re.findall(r"passiveB\d=([\w \+]+)", site.Pages[x].text(5))
     for y in temp:
         b_passive_list.append(y)
     output_dictionary[x]['B_Passives'] = b_passive_list
     
     c_passive_list = []
-    temp = re.findall(r"passiveC\d=([\w ]+)", site.Pages[x].text(5))
+    temp = re.findall(r"passiveC\d=([\w \+]+)", site.Pages[x].text(5))
     for y in temp:
         c_passive_list.append(y)
     output_dictionary[x]['C_Passives'] = c_passive_list
