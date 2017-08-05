@@ -1,1225 +1,2820 @@
 {
-	"Abel": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Brave Lance",
-			"Brave Lance+"
-		]
-	},
-	"Alfonse": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"F\u00f3lkvangr"
-		]
-	},
-	"Alm": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Falchion"
-		]
-	},
-	"Anna": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Silver Axe",
-			"N\u00f3at\u00fan"
-		]
-	},
-	"Arthur": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Emerald Axe",
-			"Emerald Axe+"
-		]
-	},
-	"Athena": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Wo Dao",
-			"Wo Dao+"
-		]
-	},
-	"Azama": {
-		"Weapons": [
-			"Assault",
-			"Pain"
-		]
-	},
-	"Azura": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Sapphire Lance",
-			"Sapphire Lance+"
-		]
-	},
-	"Barst": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Brave Axe",
-			"Brave Axe+"
-		]
-	},
-	"Bartre": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Hammer",
-			"Hammer+"
-		]
-	},
-	"Berkut": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Berkut's Lance",
-			"Berkut's Lance+"
-		]
-	},
-	"Beruka": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Killer Axe",
-			"Killer Axe+"
-		]
-	},
-	"Boey": {
-		"Weapons": [
-			"Wind",
-			"Elwind",
-			"Gronnowl",
-			"Gronnowl+"
-		]
-	},
-	"Bruno": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Thoron",
-			"Valaskj\u00e1lf"
-		]
-	},
-	"Caeda": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Armorslayer",
-			"Armorslayer+"
-		]
-	},
-	"Caeda (Bridal Blessings)": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Blessed Bouquet",
-			"Blessed Bouquet+"
-		]
-	},
-	"Cain": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Brave Sword",
-			"Brave Sword+"
-		]
-	},
-	"Camilla": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Brave Axe",
-			"Brave Axe+"
-		]
-	},
-	"Camilla (Spring Festival)": {
-		"Weapons": [
-			"Wind",
-			"Elwind",
-			"Green Egg",
-			"Green Egg+"
-		]
-	},
-	"Camus": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Silver Lance",
-			"Gradivus"
-		]
-	},
-	"Catria": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Killer Lance",
-			"Killer Lance+"
-		]
-	},
-	"Cecilia": {
-		"Weapons": [
-			"Wind",
-			"Elwind",
-			"Gronnraven",
-			"Gronnraven+"
-		]
-	},
-	"Celica": {
-		"Weapons": [
-			"Fire",
-			"Elfire",
-			"Bolganone",
-			"Ragnarok"
-		]
-	},
-	"Charlotte (Bridal Blessings)": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"First Bite",
-			"First Bite+"
-		]
-	},
-	"Cherche": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Hammer",
-			"Hammer+"
-		]
-	},
-	"Chrom": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Falchion"
-		]
-	},
-	"Chrom (Spring Festival)": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Carrot Axe",
-			"Carrot Axe+"
-		]
-	},
-	"Clair": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Silver Lance",
-			"Silver Lance+"
-		]
-	},
-	"Clarine": {
-		"Weapons": [
-			"Assault",
-			"Fear"
-		]
-	},
-	"Clarisse": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Clarisse's Bow",
-			"Clarisse's Bow+"
-		]
-	},
-	"Clive": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Silver Lance",
-			"Silver Lance+"
-		]
-	},
-	"Cordelia": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Brave Lance",
-			"Brave Lance+"
-		]
-	},
-	"Cordelia (Bridal Blessings)": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Cupid Arrow",
-			"Cupid Arrow+"
-		]
-	},
-	"Corrin (F)": {
-		"Weapons": [
-			"Fire Breath",
-			"Fire Breath+",
-			"Dark Breath",
-			"Dark Breath+"
-		]
-	},
-	"Corrin (M)": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Yato"
-		]
-	},
-	"Delthea": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Thoron",
-			"Dark Aura"
-		]
-	},
-	"Donnel": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Brave Lance",
-			"Brave Lance+"
-		]
-	},
-	"Draug": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Brave Sword",
-			"Brave Sword+"
-		]
-	},
-	"Effie": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Silver Lance",
-			"Silver Lance+"
-		]
-	},
-	"Eirika": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Sieglinde"
-		]
-	},
-	"Eldigan": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Killing Edge",
-			"Mystletainn"
-		]
-	},
-	"Elise": {
-		"Weapons": [
-			"Assault",
-			"Gravity"
-		]
-	},
-	"Eliwood": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Durandal"
-		]
-	},
-	"Ephraim": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Heavy Spear",
-			"Siegmund"
-		]
-	},
-	"Est": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Heavy Spear",
-			"Heavy Spear+"
-		]
-	},
-	"Fae": {
-		"Weapons": [
-			"Fire Breath",
-			"Fire Breath+",
-			"Light Breath",
-			"Light Breath+"
-		]
-	},
-	"Faye": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Firesweep Bow",
-			"Firesweep Bow+"
-		]
-	},
-	"Felicia": {
-		"Weapons": [
-			"Iron Dagger",
-			"Steel Dagger",
-			"Silver Dagger",
-			"Silver Dagger+"
-		]
-	},
-	"Fir": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Killing Edge",
-			"Killing Edge+"
-		]
-	},
-	"Florina": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Heavy Spear",
-			"Heavy Spear+"
-		]
-	},
-	"Frederick": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Hammer",
-			"Hammer+"
-		]
-	},
-	"Frederick (Ylissean Summer)": {
-		"Weapons": [
-			"Iron Dagger",
-			"Steel Dagger",
-			"Seashell",
-			"Seashell+"
-		]
-	},
-	"Gaius": {
-		"Weapons": [
-			"Iron Dagger",
-			"Steel Dagger",
-			"Rogue Dagger",
-			"Rogue Dagger+"
-		]
-	},
-	"Gaius (Ylissean Summer)": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Refreshing Bolt",
-			"Refreshing Bolt+"
-		]
-	},
-	"Genny": {
-		"Weapons": [
-			"Assault",
-			"Gravity"
-		]
-	},
-	"Gordin": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Brave Bow",
-			"Brave Bow+"
-		]
-	},
-	"Gray": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Zanbato",
-			"Zanbato+"
-		]
-	},
-	"Gunter": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Silver Axe",
-			"Silver Axe+"
-		]
-	},
-	"Gwendolyn": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Killer Lance",
-			"Killer Lance+"
-		]
-	},
-	"Hana": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Armorslayer",
-			"Armorslayer+"
-		]
-	},
-	"Hawkeye": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Killer Axe",
-			"Killer Axe+"
-		]
-	},
-	"Hector": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Silver Axe",
-			"Armads"
-		]
-	},
-	"Henry": {
-		"Weapons": [
-			"Flux",
-			"Ruin",
-			"Rau\u00f0rraven",
-			"Rau\u00f0rraven+"
-		]
-	},
-	"Hinata": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Ruby Sword",
-			"Ruby Sword+"
-		]
-	},
-	"Hinoka": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Brave Lance",
-			"Brave Lance+"
-		]
-	},
-	"Ike": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Ragnell"
-		]
-	},
-	"Jaffar": {
-		"Weapons": [
-			"Iron Dagger",
-			"Steel Dagger",
-			"Silver Dagger",
-			"Deathly Dagger"
-		]
-	},
-	"Jagen": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Silver Lance",
-			"Silver Lance+"
-		]
-	},
-	"Jakob": {
-		"Weapons": [
-			"Iron Dagger",
-			"Steel Dagger",
-			"Silver Dagger",
-			"Silver Dagger+"
-		]
-	},
-	"Jeorge": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Silver Bow",
-			"Parthia"
-		]
-	},
-	"Julia": {
-		"Weapons": [
-			"Wind",
-			"Elwind",
-			"Rexcalibur",
-			"Naga"
-		]
-	},
-	"Kagero": {
-		"Weapons": [
-			"Iron Dagger",
-			"Steel Dagger",
-			"Poison Dagger",
-			"Poison Dagger+"
-		]
-	},
-	"Karel": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Wo Dao",
-			"Wo Dao+"
-		]
-	},
-	"Katarina": {
-		"Weapons": [
-			"Fire",
-			"Elfire",
-			"Rau\u00f0rowl",
-			"Rau\u00f0rowl+"
-		]
-	},
-	"Klein": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Brave Bow",
-			"Brave Bow+"
-		]
-	},
-	"Lachesis": {
-		"Weapons": [
-			"Assault",
-			"Absorb"
-		]
-	},
-	"Laslow": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Silver Sword+"
-		]
-	},
-	"Legion": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Legion's Axe",
-			"Legion's Axe+"
-		]
-	},
-	"Leo": {
-		"Weapons": [
-			"Flux",
-			"Ruin",
-			"Fenrir",
-			"Brynhildr"
-		]
-	},
-	"Leon": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Slaying Bow",
-			"Slaying Bow+"
-		]
-	},
-	"Lilina": {
-		"Weapons": [
-			"Fire",
-			"Elfire",
-			"Bolganone",
-			"Bolganone+"
-		]
-	},
-	"Linde": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Thoron",
-			"Aura"
-		]
-	},
-	"Lissa": {
-		"Weapons": [
-			"Assault",
-			"Gravity"
-		]
-	},
-	"Lloyd": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Regal Blade"
-		]
-	},
-	"Lucina": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Falchion"
-		]
-	},
-	"Lucina (Spring Festival)": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Blue Egg",
-			"Blue Egg+"
-		]
-	},
-	"Lucius": {
-		"Weapons": [
-			"Assault",
-			"Pain"
-		]
-	},
-	"Lukas": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Killer Lance",
-			"Killer Lance+"
-		]
-	},
-	"Luke": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Brave Sword",
-			"Brave Sword+"
-		]
-	},
-	"Lyn": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Sol Katti"
-		]
-	},
-	"Lyn (Bridal Blessings)": {
-		"Weapons": [
-			"Assault",
-			"Candlelight"
-		]
-	},
-	"Mae": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Bl\u00e1rowl",
-			"Bl\u00e1rowl+"
-		]
-	},
-	"Maria": {
-		"Weapons": [
-			"Assault",
-			"Panic"
-		]
-	},
-	"Marth": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Falchion"
-		]
-	},
-	"Marth (Masked)": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Falchion"
-		]
-	},
-	"Mathilda": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Ridersbane",
-			"Ridersbane+"
-		]
-	},
-	"Matthew": {
-		"Weapons": [
-			"Iron Dagger",
-			"Steel Dagger",
-			"Rogue Dagger",
-			"Rogue Dagger+"
-		]
-	},
-	"Merric": {
-		"Weapons": [
-			"Wind",
-			"Elwind",
-			"Rexcalibur",
-			"Excalibur"
-		]
-	},
-	"Michalis": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Silver Axe",
-			"Hauteclere"
-		]
-	},
-	"Minerva": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Silver Axe",
-			"Hauteclere"
-		]
-	},
-	"Mist": {
-		"Weapons": [
-			"Assault",
-			"Slow"
-		]
-	},
-	"Narcian": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Emerald Axe",
-			"Emerald Axe+"
-		]
-	},
-	"Navarre": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Killing Edge",
-			"Killing Edge+"
-		]
-	},
-	"Niles": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Killer Bow",
-			"Killer Bow+"
-		]
-	},
-	"Ninian": {
-		"Weapons": [
-			"Fire Breath",
-			"Fire Breath+",
-			"Light Breath",
-			"Light Breath+"
-		]
-	},
-	"Nino": {
-		"Weapons": [
-			"Wind",
-			"Elwind",
-			"Gronnblade",
-			"Gronnblade+"
-		]
-	},
-	"Nowi": {
-		"Weapons": [
-			"Fire Breath",
-			"Fire Breath+",
-			"Lightning Breath",
-			"Lightning Breath+"
-		]
-	},
-	"Oboro": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Heavy Spear",
-			"Heavy Spear+"
-		]
-	},
-	"Odin": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Bl\u00e1rblade",
-			"Bl\u00e1rblade+"
-		]
-	},
-	"Ogma": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Brave Sword",
-			"Brave Sword+"
-		]
-	},
-	"Olivia": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Silver Sword+"
-		]
-	},
-	"Olwen": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Thoron",
-			"Dire Thunder"
-		]
-	},
-	"Palla": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Ruby Sword",
-			"Ruby Sword+"
-		]
-	},
-	"Peri": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Killer Lance",
-			"Killer Lance+"
-		]
-	},
-	"Priscilla": {
-		"Weapons": [
-			"Assault",
-			"Panic"
-		]
-	},
-	"Raigh": {
-		"Weapons": [
-			"Flux",
-			"Ruin",
-			"Rau\u00f0rwolf",
-			"Rau\u00f0rwolf+"
-		]
-	},
-	"Raven": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Brave Axe",
-			"Brave Axe+"
-		]
-	},
-	"Rebecca": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Silver Bow",
-			"Silver Bow+"
-		]
-	},
-	"Reinhardt": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Thoron",
-			"Dire Thunder"
-		]
-	},
-	"Robin (F)": {
-		"Weapons": [
-			"Wind",
-			"Elwind",
-			"Gronnwolf",
-			"Gronnwolf+"
-		]
-	},
-	"Robin (F) (Ylissean Summer)": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Deft Harpoon",
-			"Deft Harpoon+"
-		]
-	},
-	"Robin (M)": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Bl\u00e1rraven",
-			"Bl\u00e1rraven+"
-		]
-	},
-	"Roderick": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Firesweep Lance",
-			"Firesweep Lance+"
-		]
-	},
-	"Roy": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Binding Blade"
-		]
-	},
-	"Ryoma": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Raijinto"
-		]
-	},
-	"Saber": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Slaying Edge",
-			"Slaying Edge+"
-		]
-	},
-	"Saizo": {
-		"Weapons": [
-			"Iron Dagger",
-			"Steel Dagger",
-			"Smoke Dagger",
-			"Smoke Dagger+"
-		]
-	},
-	"Sakura": {
-		"Weapons": [
-			"Assault",
-			"Fear"
-		]
-	},
-	"Sanaki": {
-		"Weapons": [
-			"Fire",
-			"Elfire",
-			"Bolganone",
-			"Cymbeline"
-		]
-	},
-	"Selena": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Armorslayer",
-			"Armorslayer+"
-		]
-	},
-	"Seliph": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Tyrfing"
-		]
-	},
-	"Serra": {
-		"Weapons": [
-			"Assault",
-			"Absorb"
-		]
-	},
-	"Setsuna": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Assassin's Bow",
-			"Assassin's Bow+"
-		]
-	},
-	"Shanna": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Killer Lance",
-			"Killer Lance+"
-		]
-	},
-	"Sharena": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Silver Lance",
-			"Fensalir"
-		]
-	},
-	"Sheena": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Killer Axe",
-			"Killer Axe+"
-		]
-	},
-	"Sonya": {
-		"Weapons": [
-			"Wind",
-			"Elwind",
-			"Rexcalibur",
-			"Dark Excalibur"
-		]
-	},
-	"Sophia": {
-		"Weapons": [
-			"Flux",
-			"Ruin",
-			"Fenrir",
-			"Fenrir+"
-		]
-	},
-	"Soren": {
-		"Weapons": [
-			"Wind",
-			"Elwind",
-			"Rexcalibur",
-			"Rexcalibur+"
-		]
-	},
-	"Special Maps": {
-		"Weapons": []
-	},
-	"Stahl": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Ruby Sword",
-			"Ruby Sword+"
-		]
-	},
-	"Subaki": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Sapphire Lance",
-			"Sapphire Lance+"
-		]
-	},
-	"Sully": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Sapphire Lance",
-			"Sapphire Lance+"
-		]
-	},
-	"Takumi": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Silver Bow",
-			"Fujin Yumi"
-		]
-	},
-	"Tharja": {
-		"Weapons": [
-			"Flux",
-			"Ruin",
-			"Rau\u00f0rblade",
-			"Rau\u00f0rblade+"
-		]
-	},
-	"Tiki (Adult)": {
-		"Weapons": [
-			"Fire Breath",
-			"Fire Breath+",
-			"Lightning Breath",
-			"Lightning Breath+"
-		]
-	},
-	"Tiki (Adult) (Ylissean Summer)": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Melon Crusher",
-			"Melon Crusher+"
-		]
-	},
-	"Tiki (Young)": {
-		"Weapons": [
-			"Fire Breath",
-			"Fire Breath+",
-			"Flametongue",
-			"Flametongue+"
-		]
-	},
-	"Titania": {
-		"Weapons": [
-			"Iron Axe",
-			"Steel Axe",
-			"Emerald Axe",
-			"Emerald Axe+"
-		]
-	},
-	"Tobin": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Armorslayer",
-			"Armorslayer+"
-		]
-	},
-	"Ursula": {
-		"Weapons": [
-			"Thunder",
-			"Elthunder",
-			"Bl\u00e1rwolf",
-			"Bl\u00e1rwolf+"
-		]
-	},
-	"Veronica": {
-		"Weapons": [
-			"Wind",
-			"Elwind",
-			"Rexcalibur",
-			"\u00c9liv\u00e1gar"
-		]
-	},
-	"Virion": {
-		"Weapons": [
-			"Iron Bow",
-			"Steel Bow",
-			"Silver Bow",
-			"Silver Bow+"
-		]
-	},
-	"Wrys": {
-		"Weapons": [
-			"Assault",
-			"Slow"
-		]
-	},
-	"Xander": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Siegfried"
-		]
-	},
-	"Xander (Spring Festival)": {
-		"Weapons": [
-			"Iron Lance",
-			"Steel Lance",
-			"Carrot Lance",
-			"Carrot Lance+"
-		]
-	},
-	"Zephiel": {
-		"Weapons": [
-			"Iron Sword",
-			"Steel Sword",
-			"Silver Sword",
-			"Eckesachs"
-		]
-	}
+    "Abel": {
+        "A_Passives": [
+            "HP ",
+            "HP ",
+            "HP "
+        ],
+        "B_Passives": [
+            "Swordbreaker 1",
+            "Swordbreaker 2",
+            "Swordbreaker 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Brave Lance",
+            "Brave Lance+"
+        ]
+    },
+    "Alfonse": {
+        "A_Passives": [
+            "Death Blow 1",
+            "Death Blow 2",
+            "Death Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Atk 1",
+            "Spur Atk 2",
+            "Spur Atk 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "F\u00f3lkvangr"
+        ]
+    },
+    "Alm": {
+        "A_Passives": [
+            "Attack ",
+            "Attack ",
+            "Attack "
+        ],
+        "B_Passives": [
+            "Windsweep 1",
+            "Windsweep 2",
+            "Windsweep 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Falchion"
+        ]
+    },
+    "Anna": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Vantage 1",
+            "Vantage 2",
+            "Vantage 3"
+        ],
+        "C_Passives": [
+            "Spur Res 1",
+            "Spur Res 2",
+            "Spur Res 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Silver Axe",
+            "N\u00f3at\u00fan"
+        ]
+    },
+    "Arthur": {
+        "A_Passives": [
+            "HP ",
+            "HP ",
+            "HP "
+        ],
+        "B_Passives": [
+            "Lancebreaker 1",
+            "Lancebreaker 2",
+            "Lancebreaker 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Emerald Axe",
+            "Emerald Axe+"
+        ]
+    },
+    "Athena": {
+        "A_Passives": [
+            "Armored Blow 1",
+            "Sturdy Blow 1",
+            "Sturdy Blow 2"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Sword Exp",
+            "Sword Exp",
+            "Sword Exp"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Wo Dao",
+            "Wo Dao+"
+        ]
+    },
+    "Azama": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Atk 1",
+            "Threaten Atk 2",
+            "Threaten Atk 3"
+        ],
+        "Weapons": [
+            "Assault",
+            "Pain"
+        ]
+    },
+    "Azura": {
+        "A_Passives": [
+            "Speed ",
+            "Speed ",
+            "Speed "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Res 1",
+            "Fortify Res 2",
+            "Fortify Res 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Sapphire Lance",
+            "Sapphire Lance+"
+        ]
+    },
+    "Barst": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Knock Back"
+        ],
+        "C_Passives": [
+            "Spur Atk 1",
+            "Spur Atk 2",
+            "Spur Atk 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Brave Axe",
+            "Brave Axe+"
+        ]
+    },
+    "Bartre": {
+        "A_Passives": [
+            "Fury 1",
+            "Fury 2",
+            "Fury 3"
+        ],
+        "B_Passives": [
+            "Brash Assault 1",
+            "Brash Assault 2",
+            "Brash Assault 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Hammer",
+            "Hammer+"
+        ]
+    },
+    "Berkut": {
+        "A_Passives": [
+            "Water Boost 1",
+            "Water Boost 2",
+            "Water Boost 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Res 1",
+            "Spur Res 2",
+            "Ward Cavalry"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Berkut's Lance",
+            "Berkut's Lance+"
+        ]
+    },
+    "Beruka": {
+        "A_Passives": [
+            "Defiant Def 1",
+            "Defiant Def 2",
+            "Defiant Def 3"
+        ],
+        "B_Passives": [
+            "Lunge"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Killer Axe",
+            "Killer Axe+"
+        ]
+    },
+    "Boey": {
+        "A_Passives": [
+            "Earth Boost 1",
+            "Earth Boost 2",
+            "Earth Boost 3"
+        ],
+        "B_Passives": [
+            "Renewal 1",
+            "Renewal 2",
+            "Renewal 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Gronnowl",
+            "Gronnowl+"
+        ]
+    },
+    "Bruno": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Thoron",
+            "Valaskj\u00e1lf"
+        ]
+    },
+    "Caeda": {
+        "A_Passives": [
+            "Darting Blow 1",
+            "Darting Blow 2",
+            "Darting Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Res 1",
+            "Fortify Res 2",
+            "Fortify Fliers"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Armorslayer",
+            "Armorslayer+"
+        ]
+    },
+    "Caeda (Bridal Blessings)": {
+        "A_Passives": [
+            "Resistance ",
+            "Attack Res ",
+            "Attack Res "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Hone Spd 1",
+            "Hone Spd 2",
+            "Hone Spd 3"
+        ],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Blessed Bouquet",
+            "Blessed Bouquet+"
+        ]
+    },
+    "Cain": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Wings of Mercy 1",
+            "Wings of Mercy 2",
+            "Wings of Mercy 3"
+        ],
+        "C_Passives": [
+            "Threaten Atk 1",
+            "Threaten Atk 2",
+            "Threaten Atk 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Brave Sword",
+            "Brave Sword+"
+        ]
+    },
+    "Camilla": {
+        "A_Passives": [
+            "Darting Blow 1",
+            "Darting Blow 2",
+            "Darting Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Savage Blow 1",
+            "Savage Blow 2",
+            "Savage Blow 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Brave Axe",
+            "Brave Axe+"
+        ]
+    },
+    "Camilla (Spring Festival)": {
+        "A_Passives": [
+            "Defiant Spd 1",
+            "Defiant Spd 2",
+            "Defiant Spd 3"
+        ],
+        "B_Passives": [
+            "Live for Bounty"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Green Egg",
+            "Green Egg+"
+        ]
+    },
+    "Camus": {
+        "A_Passives": [
+            "Grani"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Atk 1",
+            "Spur Atk 2",
+            "Goad Cavalry"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Silver Lance",
+            "Gradivus"
+        ]
+    },
+    "Catria": {
+        "A_Passives": [
+            "Armored Blow 1",
+            "Armored Blow 2",
+            "Armored Blow 3"
+        ],
+        "B_Passives": [
+            "Seal Atk 1",
+            "Seal Atk 2",
+            "Seal Atk 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Killer Lance",
+            "Killer Lance+"
+        ]
+    },
+    "Cecilia": {
+        "A_Passives": [
+            "Attack ",
+            "Attack ",
+            "Attack "
+        ],
+        "B_Passives": [
+            "Escape Route 1",
+            "Escape Route 2",
+            "Escape Route 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Gronnraven",
+            "Gronnraven+"
+        ]
+    },
+    "Celica": {
+        "A_Passives": [
+            "Distant Def 1",
+            "Distant Def 2",
+            "Distant Def 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Def 1",
+            "Spur Def 2",
+            "Spur Def 3"
+        ],
+        "Weapons": [
+            "Fire",
+            "Elfire",
+            "Bolganone",
+            "Ragnarok"
+        ]
+    },
+    "Charlotte (Bridal Blessings)": {
+        "A_Passives": [
+            "Wind Boost 1",
+            "Wind Boost 2",
+            "Wind Boost 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Atk 1",
+            "Threaten Atk 2",
+            "Threaten Atk 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "First Bite",
+            "First Bite+"
+        ]
+    },
+    "Cherche": {
+        "A_Passives": [
+            "Attack ",
+            "Attack ",
+            "Attack "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Def 1",
+            "Fortify Def 2",
+            "Fortify Def 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Hammer",
+            "Hammer+"
+        ]
+    },
+    "Chrom": {
+        "A_Passives": [
+            "Defiant Def 1",
+            "Defiant Def 2",
+            "Defiant Def 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Def 1",
+            "Spur Def 2",
+            "Spur Def 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Falchion"
+        ]
+    },
+    "Chrom (Spring Festival)": {
+        "A_Passives": [
+            "Defense ",
+            "Attack Def ",
+            "Attack Def "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Axe Experience 1",
+            "Axe Experience 2",
+            "Axe Experience 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Carrot Axe",
+            "Carrot Axe+"
+        ]
+    },
+    "Clair": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Hit and Run"
+        ],
+        "C_Passives": [
+            "Spur Spd 1",
+            "Spur Spd 2",
+            "Spur Spd 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Silver Lance",
+            "Silver Lance+"
+        ]
+    },
+    "Clarine": {
+        "A_Passives": [
+            "Resistance ",
+            "Resistance ",
+            "Resistance "
+        ],
+        "B_Passives": [],
+        "C_Passives": [],
+        "Weapons": [
+            "Assault",
+            "Fear"
+        ]
+    },
+    "Clarisse": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Poison Strike 1",
+            "Poison Strike 2",
+            "Poison Strike 3"
+        ],
+        "C_Passives": [
+            "Threaten Def 1",
+            "Threaten Def 2",
+            "Threaten Def 3"
+        ],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Clarisse's Bow",
+            "Clarisse's Bow+"
+        ]
+    },
+    "Clive": {
+        "A_Passives": [
+            "Defense ",
+            "Defense ",
+            "Defense "
+        ],
+        "B_Passives": [
+            "Hit and Run"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Silver Lance",
+            "Silver Lance+"
+        ]
+    },
+    "Cordelia": {
+        "A_Passives": [
+            "Triangle Adept 1",
+            "Triangle Adept 2",
+            "Triangle Adept 3"
+        ],
+        "B_Passives": [
+            "Pass 1",
+            "Pass 2",
+            "Pass 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Brave Lance",
+            "Brave Lance+"
+        ]
+    },
+    "Cordelia (Bridal Blessings)": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Escape Route 1",
+            "Escape Route 2",
+            "Escape Route 3"
+        ],
+        "C_Passives": [
+            "Breath of Life 1",
+            "Breath of Life 2",
+            "Breath of Life 3"
+        ],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Cupid Arrow",
+            "Cupid Arrow+"
+        ]
+    },
+    "Corrin (F)": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Seal Res 1",
+            "Seal Res 2",
+            "Seal Res 3"
+        ],
+        "C_Passives": [
+            "Hone Atk 1",
+            "Hone Atk 2",
+            "Hone Atk 3"
+        ],
+        "Weapons": [
+            "Fire Breath",
+            "Fire Breath+",
+            "Dark Breath",
+            "Dark Breath+"
+        ]
+    },
+    "Corrin (M)": {
+        "A_Passives": [
+            "Defense ",
+            "Defense ",
+            "Defense "
+        ],
+        "B_Passives": [
+            "Obstruct 1",
+            "Obstruct 2",
+            "Obstruct 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Yato"
+        ]
+    },
+    "Delthea": {
+        "A_Passives": [
+            "Death Blow 1",
+            "Death Blow 2",
+            "Death Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Atk 1",
+            "Drive Atk 1",
+            "Drive Atk 2"
+        ],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Thoron",
+            "Dark Aura"
+        ]
+    },
+    "Donnel": {
+        "A_Passives": [
+            "HP ",
+            "HP ",
+            "HP "
+        ],
+        "B_Passives": [
+            "Drag Back"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Brave Lance",
+            "Brave Lance+"
+        ]
+    },
+    "Draug": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Lunge"
+        ],
+        "C_Passives": [
+            "Spur Def 1",
+            "Spur Def 2",
+            "Ward Armor"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Brave Sword",
+            "Brave Sword+"
+        ]
+    },
+    "Effie": {
+        "A_Passives": [
+            "Death Blow 1",
+            "Death Blow 2",
+            "Death Blow 3"
+        ],
+        "B_Passives": [
+            "Wary Fighter 1",
+            "Wary Fighter 2",
+            "Wary Fighter 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Silver Lance",
+            "Silver Lance+"
+        ]
+    },
+    "Eirika": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Drag Back"
+        ],
+        "C_Passives": [
+            "Hone Spd 1",
+            "Hone Spd 2",
+            "Hone Spd 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Sieglinde"
+        ]
+    },
+    "Eldigan": {
+        "A_Passives": [
+            "Fury 1",
+            "Fury 2",
+            "Fury 3"
+        ],
+        "B_Passives": [
+            "Lunge"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Killing Edge",
+            "Mystletainn"
+        ]
+    },
+    "Elise": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Live to Serve 1",
+            "Live to Serve 2",
+            "Live to Serve 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Assault",
+            "Gravity"
+        ]
+    },
+    "Eliwood": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Axebreaker 1",
+            "Axebreaker 2",
+            "Axebreaker 3"
+        ],
+        "C_Passives": [
+            "Spur Res 1",
+            "Spur Res 2",
+            "Ward Cavalry"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Durandal"
+        ]
+    },
+    "Ephraim": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Seal Def 1",
+            "Seal Def 2",
+            "Seal Def 3"
+        ],
+        "C_Passives": [
+            "Threaten Def 1",
+            "Threaten Def 2",
+            "Threaten Def 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Heavy Spear",
+            "Siegmund"
+        ]
+    },
+    "Est": {
+        "A_Passives": [
+            "Defiant Res 1",
+            "Defiant Res 2",
+            "Defiant Res 3"
+        ],
+        "B_Passives": [
+            "Seal Spd 1",
+            "Seal Spd 2",
+            "Seal Spd 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Heavy Spear",
+            "Heavy Spear+"
+        ]
+    },
+    "Fae": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Renewal 1",
+            "Renewal 2",
+            "Renewal 3"
+        ],
+        "C_Passives": [
+            "Threaten Atk 1",
+            "Threaten Atk 2",
+            "Threaten Atk 3"
+        ],
+        "Weapons": [
+            "Fire Breath",
+            "Fire Breath+",
+            "Light Breath",
+            "Light Breath+"
+        ]
+    },
+    "Faye": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Wings of Mercy 1",
+            "Wings of Mercy 2",
+            "Wings of Mercy 3"
+        ],
+        "C_Passives": [
+            "Bow Exp",
+            "Bow Exp",
+            "Bow Exp"
+        ],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Firesweep Bow",
+            "Firesweep Bow+"
+        ]
+    },
+    "Felicia": {
+        "A_Passives": [
+            "Resistance ",
+            "Resistance ",
+            "Resistance "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Breath of Life 1",
+            "Breath of Life 2",
+            "Breath of Life 3"
+        ],
+        "Weapons": [
+            "Iron Dagger",
+            "Steel Dagger",
+            "Silver Dagger",
+            "Silver Dagger+"
+        ]
+    },
+    "Fir": {
+        "A_Passives": [
+            "Speed ",
+            "Speed ",
+            "Speed "
+        ],
+        "B_Passives": [
+            "Pass 1",
+            "Pass 2",
+            "Pass 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Killing Edge",
+            "Killing Edge+"
+        ]
+    },
+    "Florina": {
+        "A_Passives": [
+            "Darting Blow 1",
+            "Darting Blow 2",
+            "Darting Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Breath of Life 1",
+            "Breath of Life 2",
+            "Breath of Life 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Heavy Spear",
+            "Heavy Spear+"
+        ]
+    },
+    "Frederick": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Wings of Mercy 1",
+            "Wings of Mercy 2",
+            "Wings of Mercy 3"
+        ],
+        "C_Passives": [
+            "Fortify Def 1",
+            "Fortify Def 2",
+            "Fortify Def 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Hammer",
+            "Hammer+"
+        ]
+    },
+    "Frederick (Ylissean Summer)": {
+        "A_Passives": [
+            "Armored Blow 1",
+            "Armored Blow 2",
+            "Armored Blow 3"
+        ],
+        "B_Passives": [
+            "Seal Spd 1",
+            "Seal Atk Spd 1",
+            "Seal Atk Spd 2"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Dagger",
+            "Steel Dagger",
+            "Seashell",
+            "Seashell+"
+        ]
+    },
+    "Gaius": {
+        "A_Passives": [
+            "Defiant Atk 1",
+            "Defiant Atk 2",
+            "Defiant Atk 3"
+        ],
+        "B_Passives": [
+            "Pass 1",
+            "Pass 2",
+            "Pass 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Dagger",
+            "Steel Dagger",
+            "Rogue Dagger",
+            "Rogue Dagger+"
+        ]
+    },
+    "Gaius (Ylissean Summer)": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Vantage 1",
+            "Vantage 2",
+            "Vantage 3"
+        ],
+        "C_Passives": [
+            "Def Ploy 1",
+            "Def Ploy 2",
+            "Def Ploy 3"
+        ],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Refreshing Bolt",
+            "Refreshing Bolt+"
+        ]
+    },
+    "Genny": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Wrathful Staff 1",
+            "Wrathful Staff 2",
+            "Wrathful Staff 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Assault",
+            "Gravity"
+        ]
+    },
+    "Gordin": {
+        "A_Passives": [
+            "Attack ",
+            "Attack ",
+            "Attack "
+        ],
+        "B_Passives": [
+            "Vantage 1",
+            "Vantage 2",
+            "Vantage 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Brave Bow",
+            "Brave Bow+"
+        ]
+    },
+    "Gray": {
+        "A_Passives": [
+            "Wind Boost 1",
+            "Wind Boost 2",
+            "Wind Boost 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Sword Valor 1",
+            "Sword Valor 2",
+            "Sword Valor 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Zanbato",
+            "Zanbato+"
+        ]
+    },
+    "Gunter": {
+        "A_Passives": [
+            "Armored Blow 1",
+            "Armored Blow 2",
+            "Armored Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Hone Atk 1",
+            "Hone Atk 2",
+            "Hone Cavalry"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Silver Axe",
+            "Silver Axe+"
+        ]
+    },
+    "Gwendolyn": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Drag Back"
+        ],
+        "C_Passives": [
+            "Hone Atk 1",
+            "Hone Atk 2",
+            "Hone Armor"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Killer Lance",
+            "Killer Lance+"
+        ]
+    },
+    "Hana": {
+        "A_Passives": [
+            "Life and Death 1",
+            "Life and Death 2",
+            "Life and Death 3"
+        ],
+        "B_Passives": [
+            "Obstruct 1",
+            "Obstruct 2",
+            "Obstruct 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Armorslayer",
+            "Armorslayer+"
+        ]
+    },
+    "Hawkeye": {
+        "A_Passives": [
+            "Death Blow 1",
+            "Death Blow 2",
+            "Death Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Atk 1",
+            "Threaten Atk 2",
+            "Threaten Atk 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Killer Axe",
+            "Killer Axe+"
+        ]
+    },
+    "Hector": {
+        "A_Passives": [
+            "Distant Counter"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Atk 1",
+            "Spur Atk 2",
+            "Goad Armor"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Silver Axe",
+            "Armads"
+        ]
+    },
+    "Henry": {
+        "A_Passives": [
+            "Defiant Def 1",
+            "Defiant Def 2",
+            "Defiant Def 3"
+        ],
+        "B_Passives": [
+            "G Tomebreaker 1",
+            "G Tomebreaker 2",
+            "G Tomebreaker 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Flux",
+            "Ruin",
+            "Rau\u00f0rraven",
+            "Rau\u00f0rraven+"
+        ]
+    },
+    "Hinata": {
+        "A_Passives": [
+            "Fury 1",
+            "Fury 2",
+            "Fury 3"
+        ],
+        "B_Passives": [
+            "Brash Assault 1",
+            "Brash Assault 2",
+            "Brash Assault 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Ruby Sword",
+            "Ruby Sword+"
+        ]
+    },
+    "Hinoka": {
+        "A_Passives": [
+            "Defiant Def 1",
+            "Defiant Def 2",
+            "Defiant Def 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Hone Spd 1",
+            "Hone Spd 2",
+            "Hone Fliers"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Brave Lance",
+            "Brave Lance+"
+        ]
+    },
+    "Ike": {
+        "A_Passives": [
+            "Heavy Blade 1",
+            "Heavy Blade 2",
+            "Heavy Blade 3"
+        ],
+        "B_Passives": [
+            "Swordbreaker 1",
+            "Swordbreaker 2",
+            "Swordbreaker 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Ragnell"
+        ]
+    },
+    "Jaffar": {
+        "A_Passives": [
+            "Life and Death 1",
+            "Life and Death 2",
+            "Life and Death 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Spd 1",
+            "Threaten Spd 2",
+            "Threaten Spd 3"
+        ],
+        "Weapons": [
+            "Iron Dagger",
+            "Steel Dagger",
+            "Silver Dagger",
+            "Deathly Dagger"
+        ]
+    },
+    "Jagen": {
+        "A_Passives": [
+            "Fury 1",
+            "Fury 2",
+            "Fury 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Res 1",
+            "Fortify Res 2",
+            "Fortify Cavalry"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Silver Lance",
+            "Silver Lance+"
+        ]
+    },
+    "Jakob": {
+        "A_Passives": [
+            "Defense ",
+            "Defense ",
+            "Defense "
+        ],
+        "B_Passives": [
+            "Renewal 1",
+            "Renewal 2",
+            "Renewal 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Dagger",
+            "Steel Dagger",
+            "Silver Dagger",
+            "Silver Dagger+"
+        ]
+    },
+    "Jeorge": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Seal Atk 1",
+            "Seal Atk 2",
+            "Seal Atk 3"
+        ],
+        "C_Passives": [
+            "Spur Spd 1",
+            "Spur Spd 2",
+            "Spur Spd 3"
+        ],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Silver Bow",
+            "Parthia"
+        ]
+    },
+    "Julia": {
+        "A_Passives": [
+            "Resistance ",
+            "Resistance ",
+            "Resistance "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Breath of Life 1",
+            "Breath of Life 2",
+            "Breath of Life 3"
+        ],
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Rexcalibur",
+            "Naga"
+        ]
+    },
+    "Kagero": {
+        "A_Passives": [
+            "Warding Blow 1",
+            "Warding Blow 2",
+            "Warding Blow 3"
+        ],
+        "B_Passives": [
+            "Daggerbreaker 1",
+            "Daggerbreaker 2",
+            "Daggerbreaker 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Dagger",
+            "Steel Dagger",
+            "Poison Dagger",
+            "Poison Dagger+"
+        ]
+    },
+    "Karel": {
+        "A_Passives": [
+            "Defiant Atk 1",
+            "Defiant Atk 2",
+            "Defiant Atk 3"
+        ],
+        "B_Passives": [
+            "Desperation 1",
+            "Desperation 2",
+            "Desperation 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Wo Dao",
+            "Wo Dao+"
+        ]
+    },
+    "Katarina": {
+        "A_Passives": [
+            "Death Blow 1",
+            "Swift Sparrow 1",
+            "Swift Sparrow 2"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Atk Ploy 1",
+            "Atk Ploy 2",
+            "Atk Ploy 3"
+        ],
+        "Weapons": [
+            "Fire",
+            "Elfire",
+            "Rau\u00f0rowl",
+            "Rau\u00f0rowl+"
+        ]
+    },
+    "Klein": {
+        "A_Passives": [
+            "Death Blow 1",
+            "Death Blow 2",
+            "Death Blow 3"
+        ],
+        "B_Passives": [
+            "Quick Riposte 1",
+            "Quick Riposte 2",
+            "Quick Riposte 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Brave Bow",
+            "Brave Bow+"
+        ]
+    },
+    "Lachesis": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Res 1",
+            "Spur Res 2",
+            "Spur Res 3"
+        ],
+        "Weapons": [
+            "Assault",
+            "Absorb"
+        ]
+    },
+    "Laslow": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Axebreaker 1",
+            "Axebreaker 2",
+            "Axebreaker 3"
+        ],
+        "C_Passives": [
+            "Hone Spd 1",
+            "Hone Spd 2",
+            "Hone Spd 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Silver Sword+"
+        ]
+    },
+    "Legion": {
+        "A_Passives": [
+            "Fury 1",
+            "Fury 2",
+            "Fury 3"
+        ],
+        "B_Passives": [
+            "Obstruct 1",
+            "Obstruct 2",
+            "Obstruct 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Legion's Axe",
+            "Legion's Axe+"
+        ]
+    },
+    "Leo": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Quick Riposte 1",
+            "Quick Riposte 2",
+            "Quick Riposte 3"
+        ],
+        "C_Passives": [
+            "Savage Blow 1",
+            "Savage Blow 2",
+            "Savage Blow 3"
+        ],
+        "Weapons": [
+            "Flux",
+            "Ruin",
+            "Fenrir",
+            "Brynhildr"
+        ]
+    },
+    "Leon": {
+        "A_Passives": [
+            "Speed ",
+            "Speed ",
+            "Speed "
+        ],
+        "B_Passives": [
+            "Guard 1",
+            "Guard 2",
+            "Guard 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Slaying Bow",
+            "Slaying Bow+"
+        ]
+    },
+    "Lilina": {
+        "A_Passives": [
+            "Attack ",
+            "Attack ",
+            "Attack "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Atk 1",
+            "Spur Atk 2",
+            "Spur Atk 3"
+        ],
+        "Weapons": [
+            "Fire",
+            "Elfire",
+            "Bolganone",
+            "Bolganone+"
+        ]
+    },
+    "Linde": {
+        "A_Passives": [
+            "Speed ",
+            "Speed ",
+            "Speed "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Res 1",
+            "Fortify Res 2",
+            "Fortify Res 3"
+        ],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Thoron",
+            "Aura"
+        ]
+    },
+    "Lissa": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Renewal 1",
+            "Renewal 2",
+            "Renewal 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Assault",
+            "Gravity"
+        ]
+    },
+    "Lloyd": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Pass 1",
+            "Pass 2",
+            "Pass 3"
+        ],
+        "C_Passives": [
+            "Threaten Atk 1",
+            "Threaten Atk 2",
+            "Threaten Atk 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Regal Blade"
+        ]
+    },
+    "Lucina": {
+        "A_Passives": [
+            "Defiant Spd 1",
+            "Defiant Spd 2",
+            "Defiant Spd 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Atk 1",
+            "Spur Atk 2",
+            "Spur Atk 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Falchion"
+        ]
+    },
+    "Lucina (Spring Festival)": {
+        "A_Passives": [
+            "Darting Blow 1",
+            "Swift Sparrow 1",
+            "Swift Sparrow 2"
+        ],
+        "B_Passives": [
+            "Seal Res 1",
+            "Seal Res 2",
+            "Seal Res 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Blue Egg",
+            "Blue Egg+"
+        ]
+    },
+    "Lucius": {
+        "A_Passives": [
+            "HP ",
+            "HP ",
+            "HP "
+        ],
+        "B_Passives": [],
+        "C_Passives": [],
+        "Weapons": [
+            "Assault",
+            "Pain"
+        ]
+    },
+    "Lukas": {
+        "A_Passives": [
+            "Fortress Def 1",
+            "Fortress Def 2",
+            "Fortress Def 3"
+        ],
+        "B_Passives": [
+            "Obstruct 1",
+            "Obstruct 2",
+            "Obstruct 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Killer Lance",
+            "Killer Lance+"
+        ]
+    },
+    "Luke": {
+        "A_Passives": [
+            "Fire Boost 1",
+            "Fire Boost 2",
+            "Fire Boost 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Panic Ploy 1",
+            "Panic Ploy 2",
+            "Panic Ploy 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Brave Sword",
+            "Brave Sword+"
+        ]
+    },
+    "Lyn": {
+        "A_Passives": [
+            "Defiant Atk 1",
+            "Defiant Atk 2",
+            "Defiant Atk 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Spd 1",
+            "Spur Spd 2",
+            "Spur Spd 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Sol Katti"
+        ]
+    },
+    "Lyn (Bridal Blessings)": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Dazzling Staff 1",
+            "Dazzling Staff 2",
+            "Dazzling Staff 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Assault",
+            "Candlelight"
+        ]
+    },
+    "Mae": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Desperation 1",
+            "Desperation 2",
+            "Desperation 3"
+        ],
+        "C_Passives": [
+            "B Tome Exp",
+            "B Tome Exp",
+            "B Tome Exp"
+        ],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Bl\u00e1rowl",
+            "Bl\u00e1rowl+"
+        ]
+    },
+    "Maria": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Res 1",
+            "Fortify Res 2",
+            "Fortify Res 3"
+        ],
+        "Weapons": [
+            "Assault",
+            "Panic"
+        ]
+    },
+    "Marth": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Escape Route 1",
+            "Escape Route 2",
+            "Escape Route 3"
+        ],
+        "C_Passives": [
+            "Spur Spd 1",
+            "Spur Spd 2",
+            "Spur Spd 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Falchion"
+        ]
+    },
+    "Marth (Masked)": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Falchion"
+        ]
+    },
+    "Mathilda": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Cancel Affinity 1",
+            "Cancel Affinity 2",
+            "Cancel Affinity 3"
+        ],
+        "C_Passives": [
+            "Hone Atk 1",
+            "Hone Atk 2",
+            "Hone Atk 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Ridersbane",
+            "Ridersbane+"
+        ]
+    },
+    "Matthew": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Poison Strike 1",
+            "Poison Strike 2",
+            "Poison Strike 3"
+        ],
+        "C_Passives": [
+            "Hone Spd 1",
+            "Hone Spd 2",
+            "Hone Spd 3"
+        ],
+        "Weapons": [
+            "Iron Dagger",
+            "Steel Dagger",
+            "Rogue Dagger",
+            "Rogue Dagger+"
+        ]
+    },
+    "Merric": {
+        "A_Passives": [
+            "HP ",
+            "HP ",
+            "HP "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Res 1",
+            "Spur Res 2",
+            "Spur Res 3"
+        ],
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Rexcalibur",
+            "Excalibur"
+        ]
+    },
+    "Michalis": {
+        "A_Passives": [
+            "Iote"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Def 1",
+            "Threaten Def 2",
+            "Threaten Def 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Silver Axe",
+            "Hauteclere"
+        ]
+    },
+    "Minerva": {
+        "A_Passives": [
+            "Life and Death 1",
+            "Life and Death 2",
+            "Life and Death 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Def 1",
+            "Spur Def 2",
+            "Ward Fliers"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Silver Axe",
+            "Hauteclere"
+        ]
+    },
+    "Mist": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Res 1",
+            "Spur Def Res 1",
+            "Spur Def Res 2"
+        ],
+        "Weapons": [
+            "Assault",
+            "Slow"
+        ]
+    },
+    "Narcian": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Lancebreaker 1",
+            "Lancebreaker 2",
+            "Lancebreaker 3"
+        ],
+        "C_Passives": [
+            "Savage Blow 1",
+            "Savage Blow 2",
+            "Savage Blow 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Emerald Axe",
+            "Emerald Axe+"
+        ]
+    },
+    "Navarre": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Desperation 1",
+            "Desperation 2",
+            "Desperation 3"
+        ],
+        "C_Passives": [
+            "Threaten Spd 1",
+            "Threaten Spd 2",
+            "Threaten Spd 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Killing Edge",
+            "Killing Edge+"
+        ]
+    },
+    "Niles": {
+        "A_Passives": [
+            "Warding Blow 1",
+            "Warding Blow 2",
+            "Warding Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Res 1",
+            "Spur Res 2",
+            "Spur Res 3"
+        ],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Killer Bow",
+            "Killer Bow+"
+        ]
+    },
+    "Ninian": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Escape Route 1",
+            "Escape Route 2",
+            "Escape Route 3"
+        ],
+        "C_Passives": [
+            "Fortify Def 1",
+            "Fortify Def 2",
+            "Fortify Dragons"
+        ],
+        "Weapons": [
+            "Fire Breath",
+            "Fire Breath+",
+            "Light Breath",
+            "Light Breath+"
+        ]
+    },
+    "Nino": {
+        "A_Passives": [
+            "Resistance ",
+            "Resistance ",
+            "Resistance "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Hone Atk 1",
+            "Hone Atk 2",
+            "Hone Atk 3"
+        ],
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Gronnblade",
+            "Gronnblade+"
+        ]
+    },
+    "Nowi": {
+        "A_Passives": [
+            "Defense ",
+            "Defense ",
+            "Defense "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Res 1",
+            "Threaten Res 2",
+            "Threaten Res 3"
+        ],
+        "Weapons": [
+            "Fire Breath",
+            "Fire Breath+",
+            "Lightning Breath",
+            "Lightning Breath+"
+        ]
+    },
+    "Oboro": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Seal Def 1",
+            "Seal Def 2",
+            "Seal Def 3"
+        ],
+        "C_Passives": [
+            "Threaten Res 1",
+            "Threaten Res 2",
+            "Threaten Res 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Heavy Spear",
+            "Heavy Spear+"
+        ]
+    },
+    "Odin": {
+        "A_Passives": [
+            "Defiant Atk 1",
+            "Defiant Atk 2",
+            "Defiant Atk 3"
+        ],
+        "B_Passives": [
+            "R Tomebreaker 1",
+            "R Tomebreaker 2",
+            "R Tomebreaker 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Bl\u00e1rblade",
+            "Bl\u00e1rblade+"
+        ]
+    },
+    "Ogma": {
+        "A_Passives": [
+            "Defiant Atk 1",
+            "Defiant Atk 2",
+            "Defiant Atk 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Atk 1",
+            "Spur Atk 2",
+            "Spur Atk 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Brave Sword",
+            "Brave Sword+"
+        ]
+    },
+    "Olivia": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Knock Back"
+        ],
+        "C_Passives": [
+            "Hone Atk 1",
+            "Hone Atk 2",
+            "Hone Atk 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Silver Sword+"
+        ]
+    },
+    "Olwen": {
+        "A_Passives": [
+            "Warding Blow 1",
+            "Warding Blow 2",
+            "Warding Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Res 1",
+            "Spur Res 2",
+            "Ward Cavalry"
+        ],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Thoron",
+            "Dire Thunder"
+        ]
+    },
+    "Palla": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Wings of Mercy 1",
+            "Wings of Mercy 2",
+            "Wings of Mercy 3"
+        ],
+        "C_Passives": [
+            "Spur Spd 1",
+            "Spur Spd 2",
+            "Goad Fliers"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Ruby Sword",
+            "Ruby Sword+"
+        ]
+    },
+    "Peri": {
+        "A_Passives": [
+            "Resistance ",
+            "Resistance ",
+            "Resistance "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Def 1",
+            "Threaten Def 2",
+            "Threaten Def 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Killer Lance",
+            "Killer Lance+"
+        ]
+    },
+    "Priscilla": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Def 1",
+            "Spur Def 2",
+            "Spur Def 3"
+        ],
+        "Weapons": [
+            "Assault",
+            "Panic"
+        ]
+    },
+    "Raigh": {
+        "A_Passives": [
+            "HP ",
+            "HP ",
+            "HP "
+        ],
+        "B_Passives": [
+            "Seal Res 1",
+            "Seal Res 2",
+            "Seal Res 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Flux",
+            "Ruin",
+            "Rau\u00f0rwolf",
+            "Rau\u00f0rwolf+"
+        ]
+    },
+    "Raven": {
+        "A_Passives": [
+            "Defiant Spd 1",
+            "Defiant Spd 2",
+            "Defiant Spd 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Def 1",
+            "Threaten Def 2",
+            "Threaten Def 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Brave Axe",
+            "Brave Axe+"
+        ]
+    },
+    "Rebecca": {
+        "A_Passives": [
+            "Darting Blow 1",
+            "Darting Blow 2",
+            "Darting Blow 3"
+        ],
+        "B_Passives": [
+            "Seal Atk 1",
+            "Seal Atk 2",
+            "Seal Atk 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Silver Bow",
+            "Silver Bow+"
+        ]
+    },
+    "Reinhardt": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Vantage 1",
+            "Vantage 2",
+            "Vantage 3"
+        ],
+        "C_Passives": [
+            "Spur Atk 1",
+            "Spur Atk 2",
+            "Goad Cavalry"
+        ],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Thoron",
+            "Dire Thunder"
+        ]
+    },
+    "Robin (F)": {
+        "A_Passives": [
+            "Defiant Res 1",
+            "Defiant Res 2",
+            "Defiant Res 3"
+        ],
+        "B_Passives": [
+            "B Tomebreaker 1",
+            "B Tomebreaker 2",
+            "B Tomebreaker 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Gronnwolf",
+            "Gronnwolf+"
+        ]
+    },
+    "Robin (F) (Ylissean Summer)": {
+        "A_Passives": [
+            "Defense ",
+            "HP Def 1",
+            "HP Def 2"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Lance Valor 1",
+            "Lance Valor 2",
+            "Lance Valor 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Deft Harpoon",
+            "Deft Harpoon+"
+        ]
+    },
+    "Robin (M)": {
+        "A_Passives": [
+            "Defiant Spd 1",
+            "Defiant Spd 2",
+            "Defiant Spd 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Def 1",
+            "Spur Def 2",
+            "Spur Def 3"
+        ],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Bl\u00e1rraven",
+            "Bl\u00e1rraven+"
+        ]
+    },
+    "Roderick": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Drag Back"
+        ],
+        "C_Passives": [
+            "Spur Def 1",
+            "Drive Def 1",
+            "Drive Def 2"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Firesweep Lance",
+            "Firesweep Lance+"
+        ]
+    },
+    "Roy": {
+        "A_Passives": [
+            "Triangle Adept 1",
+            "Triangle Adept 2",
+            "Triangle Adept 3"
+        ],
+        "B_Passives": [
+            "Seal Def 1",
+            "Seal Def 2",
+            "Seal Def 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Binding Blade"
+        ]
+    },
+    "Ryoma": {
+        "A_Passives": [
+            "Defiant Atk 1",
+            "Defiant Atk 2",
+            "Defiant Atk 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Hone Spd 1",
+            "Hone Spd 2",
+            "Hone Spd 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Raijinto"
+        ]
+    },
+    "Saber": {
+        "A_Passives": [
+            "HP ",
+            "HP Spd 1",
+            "HP Spd 2"
+        ],
+        "B_Passives": [
+            "Shield Pulse 1",
+            "Shield Pulse 2",
+            "Shield Pulse 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Slaying Edge",
+            "Slaying Edge+"
+        ]
+    },
+    "Saizo": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Poison Strike 1",
+            "Poison Strike 2",
+            "Poison Strike 3"
+        ],
+        "C_Passives": [
+            "Spur Spd 1",
+            "Spur Spd 2",
+            "Spur Spd 3"
+        ],
+        "Weapons": [
+            "Iron Dagger",
+            "Steel Dagger",
+            "Smoke Dagger",
+            "Smoke Dagger+"
+        ]
+    },
+    "Sakura": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Def 1",
+            "Fortify Def 2",
+            "Fortify Def 3"
+        ],
+        "Weapons": [
+            "Assault",
+            "Fear"
+        ]
+    },
+    "Sanaki": {
+        "A_Passives": [
+            "Triangle Adept 1",
+            "Triangle Adept 2",
+            "Triangle Adept 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Hone Atk 1",
+            "Hone Atk 2",
+            "Hone Atk 3"
+        ],
+        "Weapons": [
+            "Fire",
+            "Elfire",
+            "Bolganone",
+            "Cymbeline"
+        ]
+    },
+    "Selena": {
+        "A_Passives": [
+            "Triangle Adept 1",
+            "Triangle Adept 2",
+            "Triangle Adept 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Spd 1",
+            "Threaten Spd 2",
+            "Threaten Spd 3"
+        ],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Armorslayer",
+            "Armorslayer+"
+        ]
+    },
+    "Seliph": {
+        "A_Passives": [
+            "HP ",
+            "HP ",
+            "HP "
+        ],
+        "B_Passives": [
+            "Brash Assault 1",
+            "Brash Assault 2",
+            "Brash Assault 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Tyrfing"
+        ]
+    },
+    "Serra": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Hone Atk 1",
+            "Hone Atk 2",
+            "Hone Atk 3"
+        ],
+        "Weapons": [
+            "Assault",
+            "Absorb"
+        ]
+    },
+    "Setsuna": {
+        "A_Passives": [
+            "HP ",
+            "HP ",
+            "HP "
+        ],
+        "B_Passives": [
+            "Bowbreaker 1",
+            "Bowbreaker 2",
+            "Bowbreaker 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Assassin's Bow",
+            "Assassin's Bow+"
+        ]
+    },
+    "Shanna": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Desperation 1",
+            "Desperation 2",
+            "Desperation 3"
+        ],
+        "C_Passives": [
+            "Threaten Spd 1",
+            "Threaten Spd 2",
+            "Threaten Spd 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Killer Lance",
+            "Killer Lance+"
+        ]
+    },
+    "Sharena": {
+        "A_Passives": [
+            "Speed ",
+            "Speed ",
+            "Speed "
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Def 1",
+            "Fortify Def 2",
+            "Fortify Def 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Silver Lance",
+            "Fensalir"
+        ]
+    },
+    "Sheena": {
+        "A_Passives": [
+            "Svalinn Shield"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Def 1",
+            "Fortify Def 2",
+            "Fortify Armor"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Killer Axe",
+            "Killer Axe+"
+        ]
+    },
+    "Sonya": {
+        "A_Passives": [
+            "Warding Blow 1",
+            "Mirror Strike 1",
+            "Mirror Strike 2"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Res Ploy 1",
+            "Res Ploy 2",
+            "Res Ploy 3"
+        ],
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Rexcalibur",
+            "Dark Excalibur"
+        ]
+    },
+    "Sophia": {
+        "A_Passives": [
+            "Warding Blow 1",
+            "Warding Blow 2",
+            "Warding Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Res 1",
+            "Fortify Res 2",
+            "Fortify Res 3"
+        ],
+        "Weapons": [
+            "Flux",
+            "Ruin",
+            "Fenrir",
+            "Fenrir+"
+        ]
+    },
+    "Soren": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Watersweep 1",
+            "Watersweep 2",
+            "Watersweep 3"
+        ],
+        "C_Passives": [
+            "Fortify Res 1",
+            "Fortify Res 2",
+            "Fortify Res 3"
+        ],
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Rexcalibur",
+            "Rexcalibur+"
+        ]
+    },
+    "Special Maps": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [],
+        "Weapons": []
+    },
+    "Stahl": {
+        "A_Passives": [
+            "Defense ",
+            "Defense ",
+            "Defense "
+        ],
+        "B_Passives": [
+            "Obstruct 1",
+            "Obstruct 2",
+            "Obstruct 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Ruby Sword",
+            "Ruby Sword+"
+        ]
+    },
+    "Subaki": {
+        "A_Passives": [
+            "Resistance ",
+            "Resistance ",
+            "Resistance "
+        ],
+        "B_Passives": [
+            "Quick Riposte 1",
+            "Quick Riposte 2",
+            "Quick Riposte 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Sapphire Lance",
+            "Sapphire Lance+"
+        ]
+    },
+    "Sully": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Swordbreaker 1",
+            "Swordbreaker 2",
+            "Swordbreaker 3"
+        ],
+        "C_Passives": [
+            "Spur Def 1",
+            "Spur Def 2",
+            "Spur Def 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Sapphire Lance",
+            "Sapphire Lance+"
+        ]
+    },
+    "Takumi": {
+        "A_Passives": [
+            "Close Counter"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Spd 1",
+            "Threaten Spd 2",
+            "Threaten Spd 3"
+        ],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Silver Bow",
+            "Fujin Yumi"
+        ]
+    },
+    "Tharja": {
+        "A_Passives": [
+            "Darting Blow 1",
+            "Darting Blow 2",
+            "Darting Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Res 1",
+            "Spur Res 2",
+            "Spur Res 3"
+        ],
+        "Weapons": [
+            "Flux",
+            "Ruin",
+            "Rau\u00f0rblade",
+            "Rau\u00f0rblade+"
+        ]
+    },
+    "Tiki (Adult)": {
+        "A_Passives": [
+            "Defiant Atk 1",
+            "Defiant Atk 2",
+            "Defiant Atk 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Res 1",
+            "Spur Res 2",
+            "Spur Res 3"
+        ],
+        "Weapons": [
+            "Fire Breath",
+            "Fire Breath+",
+            "Lightning Breath",
+            "Lightning Breath+"
+        ]
+    },
+    "Tiki (Adult) (Ylissean Summer)": {
+        "A_Passives": [
+            "Close Def 1",
+            "Close Def 2",
+            "Close Def 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Axe Valor 1",
+            "Axe Valor 2",
+            "Axe Valor 3"
+        ],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Melon Crusher",
+            "Melon Crusher+"
+        ]
+    },
+    "Tiki (Young)": {
+        "A_Passives": [
+            "Armored Blow 1",
+            "Armored Blow 2",
+            "Armored Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Breath of Life 1",
+            "Breath of Life 2",
+            "Breath of Life 3"
+        ],
+        "Weapons": [
+            "Fire Breath",
+            "Fire Breath+",
+            "Flametongue",
+            "Flametongue+"
+        ]
+    },
+    "Titania": {
+        "A_Passives": [
+            "Armored Blow 1",
+            "Armored Blow 2",
+            "Armored Blow 3"
+        ],
+        "B_Passives": [
+            "Guard 1",
+            "Guard 2",
+            "Guard 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Emerald Axe",
+            "Emerald Axe+"
+        ]
+    },
+    "Tobin": {
+        "A_Passives": [
+            "Attack ",
+            "Attack ",
+            "Attack "
+        ],
+        "B_Passives": [
+            "Seal Spd 1",
+            "Seal Spd 2",
+            "Seal Spd 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Armorslayer",
+            "Armorslayer+"
+        ]
+    },
+    "Ursula": {
+        "A_Passives": [
+            "Death Blow 1",
+            "Death Blow 2",
+            "Death Blow 3"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Threaten Res 1",
+            "Threaten Res 2",
+            "Threaten Res 3"
+        ],
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Bl\u00e1rwolf",
+            "Bl\u00e1rwolf+"
+        ]
+    },
+    "Veronica": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [],
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Rexcalibur",
+            "\u00c9liv\u00e1gar"
+        ]
+    },
+    "Virion": {
+        "A_Passives": [
+            "Defiant Res 1",
+            "Defiant Res 2",
+            "Defiant Res 3"
+        ],
+        "B_Passives": [
+            "Seal Spd 1",
+            "Seal Spd 2",
+            "Seal Spd 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Silver Bow",
+            "Silver Bow+"
+        ]
+    },
+    "Wrys": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Live to Serve 1",
+            "Live to Serve 2",
+            "Live to Serve 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Assault",
+            "Slow"
+        ]
+    },
+    "Xander": {
+        "A_Passives": [],
+        "B_Passives": [],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Siegfried"
+        ]
+    },
+    "Xander (Spring Festival)": {
+        "A_Passives": [],
+        "B_Passives": [
+            "Live for Honor"
+        ],
+        "C_Passives": [
+            "Fortify Def 1",
+            "Fortify Def 2",
+            "Fortify Def 3"
+        ],
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Carrot Lance",
+            "Carrot Lance+"
+        ]
+    },
+    "Zephiel": {
+        "A_Passives": [
+            "Life and Death 1",
+            "Life and Death 2",
+            "Life and Death 3"
+        ],
+        "B_Passives": [
+            "Wary Fighter 1",
+            "Wary Fighter 2",
+            "Wary Fighter 3"
+        ],
+        "C_Passives": [],
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Eckesachs"
+        ]
+    }
 }
