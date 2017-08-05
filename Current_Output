@@ -1,9 +1,9 @@
 {
     "Abel": {
         "A_Passives": [
-            "HP ",
-            "HP ",
-            "HP "
+            "HP +3",
+            "HP +4",
+            "HP +5"
         ],
         "B_Passives": [
             "Swordbreaker 1",
@@ -39,9 +39,9 @@
     },
     "Alm": {
         "A_Passives": [
-            "Attack ",
-            "Attack ",
-            "Attack "
+            "Attack +1",
+            "Attack +2",
+            "Attack +3"
         ],
         "B_Passives": [
             "Windsweep 1",
@@ -77,9 +77,9 @@
     },
     "Arthur": {
         "A_Passives": [
-            "HP ",
-            "HP ",
-            "HP "
+            "HP +3",
+            "HP +4",
+            "HP +5"
         ],
         "B_Passives": [
             "Lancebreaker 1",
@@ -128,9 +128,9 @@
     },
     "Azura": {
         "A_Passives": [
-            "Speed ",
-            "Speed ",
-            "Speed "
+            "Speed +1",
+            "Speed +2",
+            "Speed +3"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -268,9 +268,9 @@
     },
     "Caeda (Bridal Blessings)": {
         "A_Passives": [
-            "Resistance ",
-            "Attack Res ",
-            "Attack Res "
+            "Resistance +1",
+            "Attack Res +1",
+            "Attack Res +2"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -378,9 +378,9 @@
     },
     "Cecilia": {
         "A_Passives": [
-            "Attack ",
-            "Attack ",
-            "Attack "
+            "Attack +1",
+            "Attack +2",
+            "Attack +3"
         ],
         "B_Passives": [
             "Escape Route 1",
@@ -435,9 +435,9 @@
     },
     "Cherche": {
         "A_Passives": [
-            "Attack ",
-            "Attack ",
-            "Attack "
+            "Attack +1",
+            "Attack +2",
+            "Attack +3"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -473,9 +473,9 @@
     },
     "Chrom (Spring Festival)": {
         "A_Passives": [
-            "Defense ",
-            "Attack Def ",
-            "Attack Def "
+            "Defense +1",
+            "Attack Def +1",
+            "Attack Def +2"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -509,9 +509,9 @@
     },
     "Clarine": {
         "A_Passives": [
-            "Resistance ",
-            "Resistance ",
-            "Resistance "
+            "Resistance +1",
+            "Resistance +2",
+            "Resistance +3"
         ],
         "B_Passives": [],
         "C_Passives": [],
@@ -541,9 +541,9 @@
     },
     "Clive": {
         "A_Passives": [
-            "Defense ",
-            "Defense ",
-            "Defense "
+            "Defense +1",
+            "Defense +2",
+            "Defense +3"
         ],
         "B_Passives": [
             "Hit and Run"
@@ -615,9 +615,9 @@
     },
     "Corrin (M)": {
         "A_Passives": [
-            "Defense ",
-            "Defense ",
-            "Defense "
+            "Defense +1",
+            "Defense +2",
+            "Defense +3"
         ],
         "B_Passives": [
             "Obstruct 1",
@@ -653,9 +653,9 @@
     },
     "Donnel": {
         "A_Passives": [
-            "HP ",
-            "HP ",
-            "HP "
+            "HP +3",
+            "HP +4",
+            "HP +5"
         ],
         "B_Passives": [
             "Drag Back"
@@ -848,9 +848,9 @@
     },
     "Felicia": {
         "A_Passives": [
-            "Resistance ",
-            "Resistance ",
-            "Resistance "
+            "Resistance +1",
+            "Resistance +2",
+            "Resistance +3"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -867,9 +867,9 @@
     },
     "Fir": {
         "A_Passives": [
-            "Speed ",
-            "Speed ",
-            "Speed "
+            "Speed +1",
+            "Speed +2",
+            "Speed +3"
         ],
         "B_Passives": [
             "Pass 1",
@@ -994,9 +994,9 @@
     },
     "Gordin": {
         "A_Passives": [
-            "Attack ",
-            "Attack ",
-            "Attack "
+            "Attack +1",
+            "Attack +2",
+            "Attack +3"
         ],
         "B_Passives": [
             "Vantage 1",
@@ -1237,9 +1237,9 @@
     },
     "Jakob": {
         "A_Passives": [
-            "Defense ",
-            "Defense ",
-            "Defense "
+            "Defense +1",
+            "Defense +2",
+            "Defense +3"
         ],
         "B_Passives": [
             "Renewal 1",
@@ -1275,9 +1275,9 @@
     },
     "Julia": {
         "A_Passives": [
-            "Resistance ",
-            "Resistance ",
-            "Resistance "
+            "Resistance +1",
+            "Resistance +2",
+            "Resistance +3"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -1440,9 +1440,9 @@
     },
     "Leon": {
         "A_Passives": [
-            "Speed ",
-            "Speed ",
-            "Speed "
+            "Speed +1",
+            "Speed +2",
+            "Speed +3"
         ],
         "B_Passives": [
             "Guard 1",
@@ -1459,9 +1459,9 @@
     },
     "Lilina": {
         "A_Passives": [
-            "Attack ",
-            "Attack ",
-            "Attack "
+            "Attack +1",
+            "Attack +2",
+            "Attack +3"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -1478,9 +1478,9 @@
     },
     "Linde": {
         "A_Passives": [
-            "Speed ",
-            "Speed ",
-            "Speed "
+            "Speed +1",
+            "Speed +2",
+            "Speed +3"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -1567,9 +1567,9 @@
     },
     "Lucius": {
         "A_Passives": [
-            "HP ",
-            "HP ",
-            "HP "
+            "HP +3",
+            "HP +4",
+            "HP +5"
         ],
         "B_Passives": [],
         "C_Passives": [],
@@ -1750,9 +1750,9 @@
     },
     "Merric": {
         "A_Passives": [
-            "HP ",
-            "HP ",
-            "HP "
+            "HP +3",
+            "HP +4",
+            "HP +5"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -1894,9 +1894,9 @@
     },
     "Nino": {
         "A_Passives": [
-            "Resistance ",
-            "Resistance ",
-            "Resistance "
+            "Resistance +1",
+            "Resistance +2",
+            "Resistance +3"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -1913,9 +1913,9 @@
     },
     "Nowi": {
         "A_Passives": [
-            "Defense ",
-            "Defense ",
-            "Defense "
+            "Defense +1",
+            "Defense +2",
+            "Defense +3"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -2044,9 +2044,9 @@
     },
     "Peri": {
         "A_Passives": [
-            "Resistance ",
-            "Resistance ",
-            "Resistance "
+            "Resistance +1",
+            "Resistance +2",
+            "Resistance +3"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -2076,9 +2076,9 @@
     },
     "Raigh": {
         "A_Passives": [
-            "HP ",
-            "HP ",
-            "HP "
+            "HP +3",
+            "HP +4",
+            "HP +5"
         ],
         "B_Passives": [
             "Seal Res 1",
@@ -2171,7 +2171,7 @@
     },
     "Robin (F) (Ylissean Summer)": {
         "A_Passives": [
-            "Defense ",
+            "Defense +1",
             "HP Def 1",
             "HP Def 2"
         ],
@@ -2264,7 +2264,7 @@
     },
     "Saber": {
         "A_Passives": [
-            "HP ",
+            "HP +3",
             "HP Spd 1",
             "HP Spd 2"
         ],
@@ -2353,9 +2353,9 @@
     },
     "Seliph": {
         "A_Passives": [
-            "HP ",
-            "HP ",
-            "HP "
+            "HP +3",
+            "HP +4",
+            "HP +5"
         ],
         "B_Passives": [
             "Brash Assault 1",
@@ -2385,9 +2385,9 @@
     },
     "Setsuna": {
         "A_Passives": [
-            "HP ",
-            "HP ",
-            "HP "
+            "HP +3",
+            "HP +4",
+            "HP +5"
         ],
         "B_Passives": [
             "Bowbreaker 1",
@@ -2423,9 +2423,9 @@
     },
     "Sharena": {
         "A_Passives": [
-            "Speed ",
-            "Speed ",
-            "Speed "
+            "Speed +1",
+            "Speed +2",
+            "Speed +3"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -2522,9 +2522,9 @@
     },
     "Stahl": {
         "A_Passives": [
-            "Defense ",
-            "Defense ",
-            "Defense "
+            "Defense +1",
+            "Defense +2",
+            "Defense +3"
         ],
         "B_Passives": [
             "Obstruct 1",
@@ -2541,9 +2541,9 @@
     },
     "Subaki": {
         "A_Passives": [
-            "Resistance ",
-            "Resistance ",
-            "Resistance "
+            "Resistance +1",
+            "Resistance +2",
+            "Resistance +3"
         ],
         "B_Passives": [
             "Quick Riposte 1",
@@ -2691,9 +2691,9 @@
     },
     "Tobin": {
         "A_Passives": [
-            "Attack ",
-            "Attack ",
-            "Attack "
+            "Attack +1",
+            "Attack +2",
+            "Attack +3"
         ],
         "B_Passives": [
             "Seal Spd 1",
