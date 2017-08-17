@@ -1,9 +1,11 @@
+{
     "Abel": {
         "A_Passives": [
             "HP +3",
             "HP +4",
             "HP +5"
         ],
+        "Assists": [],
         "B_Passives": [
             "Swordbreaker 1",
             "Swordbreaker 2",
@@ -44,6 +46,7 @@
             "Death Blow 2",
             "Death Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Atk 1",
@@ -84,6 +87,7 @@
             "Attack +2",
             "Attack +3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Windsweep 1",
             "Windsweep 2",
@@ -118,8 +122,50 @@
             "Falchion"
         ]
     },
+    "Amelia": {
+        "A_Passives": [
+            "Earth Boost 1",
+            "Earth Boost 2",
+            "Earth Boost 3"
+        ],
+        "Assists": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Armor March 1",
+            "Armor March 2",
+            "Armor March 3"
+        ],
+        "Color": "Green",
+        "Level 1 Stats": {
+            "Attack": "5/6/7",
+            "Defense": "8/9/10",
+            "Hp": "18/19/20",
+            "Resistance": "3/4/5",
+            "Speed": "7/8/9"
+        },
+        "Level 40 Stats": {
+            "Attack": "31/34/37",
+            "Defense": "32/35/38",
+            "Hp": "44/47/50",
+            "Resistance": "20/23/27",
+            "Speed": "31/34/37"
+        },
+        "Movement": "Armored",
+        "Specials": [
+            "Holy Vestments",
+            "Sacred Cowl"
+        ],
+        "Weapon Type": "Axe",
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Slaying Axe",
+            "Slaying Axe+"
+        ]
+    },
     "Anna": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Vantage 1",
             "Vantage 2",
@@ -164,6 +210,9 @@
             "HP +4",
             "HP +5"
         ],
+        "Assists": [
+            "Swap"
+        ],
         "B_Passives": [
             "Lancebreaker 1",
             "Lancebreaker 2",
@@ -201,6 +250,7 @@
             "Sturdy Blow 1",
             "Sturdy Blow 2"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Sword Exp",
@@ -237,6 +287,11 @@
     },
     "Azama": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Reconcile",
+            "Martyr"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Threaten Atk 1",
@@ -275,6 +330,9 @@
             "Speed +2",
             "Speed +3"
         ],
+        "Assists": [
+            "Sing"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Fortify Res 1",
@@ -308,6 +366,9 @@
     },
     "Barst": {
         "A_Passives": [],
+        "Assists": [
+            "Reposition"
+        ],
         "B_Passives": [
             "Knock Back"
         ],
@@ -347,6 +408,9 @@
             "Fury 2",
             "Fury 3"
         ],
+        "Assists": [
+            "Smite"
+        ],
         "B_Passives": [
             "Brash Assault 1",
             "Brash Assault 2",
@@ -384,6 +448,7 @@
             "Water Boost 2",
             "Water Boost 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Res 1",
@@ -424,6 +489,7 @@
             "Defiant Def 2",
             "Defiant Def 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Lunge"
         ],
@@ -462,6 +528,7 @@
             "Earth Boost 2",
             "Earth Boost 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Renewal 1",
             "Renewal 2",
@@ -496,40 +563,14 @@
             "Gronnowl+"
         ]
     },
-    "Bruno": {
-        "A_Passives": [],
-        "B_Passives": [],
-        "C_Passives": [],
-        "Color": "Blue",
-        "Level 1 Stats": {
-            "Attack": "?",
-            "Defense": "?",
-            "Hp": "?",
-            "Resistance": "?",
-            "Speed": "?"
-        },
-        "Level 40 Stats": {
-            "Attack": "?",
-            "Defense": "?",
-            "Hp": "?",
-            "Resistance": "?",
-            "Speed": "?"
-        },
-        "Movement": "Cavalry",
-        "Specials": [],
-        "Weapon Type": "Tome",
-        "Weapons": [
-            "Thunder",
-            "Elthunder",
-            "Thoron",
-            "Valaskj\u00e1lf"
-        ]
-    },
     "Caeda": {
         "A_Passives": [
             "Darting Blow 1",
             "Darting Blow 2",
             "Darting Blow 3"
+        ],
+        "Assists": [
+            "Rally Speed"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -568,6 +609,7 @@
             "Attack Res +1",
             "Attack Res +2"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Hone Spd 1",
@@ -604,6 +646,7 @@
     },
     "Cain": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Wings of Mercy 1",
             "Wings of Mercy 2",
@@ -648,6 +691,7 @@
             "Darting Blow 2",
             "Darting Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Savage Blow 1",
@@ -688,6 +732,9 @@
             "Defiant Spd 2",
             "Defiant Spd 3"
         ],
+        "Assists": [
+            "Rally Attack"
+        ],
         "B_Passives": [
             "Live for Bounty"
         ],
@@ -721,6 +768,7 @@
         "A_Passives": [
             "Grani"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Atk 1",
@@ -761,6 +809,7 @@
             "Armored Blow 2",
             "Armored Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Seal Atk 1",
             "Seal Atk 2",
@@ -801,6 +850,9 @@
             "Attack +2",
             "Attack +3"
         ],
+        "Assists": [
+            "Rally Resistance"
+        ],
         "B_Passives": [
             "Escape Route 1",
             "Escape Route 2",
@@ -838,6 +890,7 @@
             "Distant Def 2",
             "Distant Def 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Def 1",
@@ -878,6 +931,9 @@
             "Wind Boost 2",
             "Wind Boost 3"
         ],
+        "Assists": [
+            "Smite"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Threaten Atk 1",
@@ -914,6 +970,9 @@
             "Attack +1",
             "Attack +2",
             "Attack +3"
+        ],
+        "Assists": [
+            "Pivot"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -952,6 +1011,7 @@
             "Defiant Def 2",
             "Defiant Def 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Def 1",
@@ -993,6 +1053,9 @@
             "Attack Def +1",
             "Attack Def +2"
         ],
+        "Assists": [
+            "Shove"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Axe Experience 1",
@@ -1026,6 +1089,9 @@
     },
     "Clair": {
         "A_Passives": [],
+        "Assists": [
+            "Harsh Command"
+        ],
         "B_Passives": [
             "Hit and Run"
         ],
@@ -1065,6 +1131,11 @@
             "Resistance +2",
             "Resistance +3"
         ],
+        "Assists": [
+            "Heal",
+            "Reconcile",
+            "Martyr"
+        ],
         "B_Passives": [],
         "C_Passives": [],
         "Color": "Neutral",
@@ -1095,6 +1166,7 @@
     },
     "Clarisse": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Poison Strike 1",
             "Poison Strike 2",
@@ -1139,17 +1211,18 @@
             "Defense +2",
             "Defense +3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Hit and Run"
         ],
         "C_Passives": [],
         "Color": "Blue",
         "Level 1 Stats": {
-            "Attack": "-",
-            "Defense": "-",
-            "Hp": "-",
-            "Resistance": "-",
-            "Speed": "-"
+            "Attack": "9",
+            "Defense": "8",
+            "Hp": "19",
+            "Resistance": "4",
+            "Speed": "6"
         },
         "Level 40 Stats": {
             "Attack": "33",
@@ -1177,6 +1250,7 @@
             "Triangle Adept 2",
             "Triangle Adept 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Pass 1",
             "Pass 2",
@@ -1214,6 +1288,10 @@
     },
     "Cordelia (Bridal Blessings)": {
         "A_Passives": [],
+        "Assists": [
+            "Rally Attack",
+            "Rally Attack Speed"
+        ],
         "B_Passives": [
             "Escape Route 1",
             "Escape Route 2",
@@ -1251,6 +1329,7 @@
     },
     "Corrin (F)": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Seal Res 1",
             "Seal Res 2",
@@ -1289,12 +1368,51 @@
             "Dark Breath+"
         ]
     },
+    "Corrin (F) (Nohrian Summer)": {
+        "A_Passives": [
+            "Darting Blow 1",
+            "Swift Strike 1",
+            "Swift Strike 2"
+        ],
+        "Assists": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Fortify Res 1",
+            "Fortify Res 2",
+            "Fortify Fliers"
+        ],
+        "Color": "Blue",
+        "Level 1 Stats": {
+            "Attack": "6/7/8",
+            "Defense": "4/5/6",
+            "Hp": "16/17/18",
+            "Resistance": "6/7/8",
+            "Speed": "7/8/9"
+        },
+        "Level 40 Stats": {
+            "Attack": "28/31/34",
+            "Defense": "19/22/25",
+            "Hp": "31/34/37",
+            "Resistance": "23/26/30",
+            "Speed": "31/34/37"
+        },
+        "Movement": "Flying",
+        "Specials": [],
+        "Weapon Type": "Tome",
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Sealife Tome",
+            "Sealife Tome+"
+        ]
+    },
     "Corrin (M)": {
         "A_Passives": [
             "Defense +1",
             "Defense +2",
             "Defense +3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Obstruct 1",
             "Obstruct 2",
@@ -1335,6 +1453,7 @@
             "Death Blow 2",
             "Death Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Atk 1",
@@ -1372,6 +1491,9 @@
             "HP +4",
             "HP +5"
         ],
+        "Assists": [
+            "Reciprocal Aid"
+        ],
         "B_Passives": [
             "Drag Back"
         ],
@@ -1403,6 +1525,7 @@
     },
     "Draug": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Lunge"
         ],
@@ -1445,6 +1568,9 @@
             "Death Blow 2",
             "Death Blow 3"
         ],
+        "Assists": [
+            "Smite"
+        ],
         "B_Passives": [
             "Wary Fighter 1",
             "Wary Fighter 2",
@@ -1478,6 +1604,9 @@
     },
     "Eirika": {
         "A_Passives": [],
+        "Assists": [
+            "Pivot"
+        ],
         "B_Passives": [
             "Drag Back"
         ],
@@ -1517,6 +1646,7 @@
             "Fury 2",
             "Fury 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Lunge"
         ],
@@ -1551,6 +1681,11 @@
     },
     "Elise": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Mend",
+            "Recover"
+        ],
         "B_Passives": [
             "Live to Serve 1",
             "Live to Serve 2",
@@ -1583,8 +1718,50 @@
             "Gravity"
         ]
     },
+    "Elise (Nohrian Summer)": {
+        "A_Passives": [
+            "Speed +1",
+            "Spd Res 1",
+            "Spd Res 2"
+        ],
+        "Assists": [
+            "Rally Attack",
+            "Rally Attack Resistance"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "G Tome Valor 1",
+            "G Tome Valor 2",
+            "G Tome Valor 3"
+        ],
+        "Color": "Green",
+        "Level 1 Stats": {
+            "Attack": "9/10/11",
+            "Defense": "2/3/4",
+            "Hp": "16/17/18",
+            "Resistance": "5/6/7",
+            "Speed": "7/8/9"
+        },
+        "Level 40 Stats": {
+            "Attack": "33/36/39",
+            "Defense": "15/18/21",
+            "Hp": "31/34/37",
+            "Resistance": "22/25/29",
+            "Speed": "31/34/37"
+        },
+        "Movement": "Infantry",
+        "Specials": [],
+        "Weapon Type": "Tome",
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Hibiscus Tome",
+            "Hibiscus Tome+"
+        ]
+    },
     "Eliwood": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Axebreaker 1",
             "Axebreaker 2",
@@ -1625,6 +1802,7 @@
     },
     "Ephraim": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Seal Def 1",
             "Seal Def 2",
@@ -1669,6 +1847,9 @@
             "Defiant Res 2",
             "Defiant Res 3"
         ],
+        "Assists": [
+            "Shove"
+        ],
         "B_Passives": [
             "Seal Spd 1",
             "Seal Spd 2",
@@ -1702,6 +1883,9 @@
     },
     "Fae": {
         "A_Passives": [],
+        "Assists": [
+            "Draw Back"
+        ],
         "B_Passives": [
             "Renewal 1",
             "Renewal 2",
@@ -1739,6 +1923,7 @@
     },
     "Faye": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Wings of Mercy 1",
             "Wings of Mercy 2",
@@ -1783,6 +1968,7 @@
             "Resistance +2",
             "Resistance +3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Breath of Life 1",
@@ -1823,6 +2009,7 @@
             "Speed +2",
             "Speed +3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Pass 1",
             "Pass 2",
@@ -1863,6 +2050,9 @@
             "Darting Blow 2",
             "Darting Blow 3"
         ],
+        "Assists": [
+            "Ardent Sacrifice"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Breath of Life 1",
@@ -1896,6 +2086,7 @@
     },
     "Frederick": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Wings of Mercy 1",
             "Wings of Mercy 2",
@@ -1940,6 +2131,9 @@
             "Armored Blow 2",
             "Armored Blow 3"
         ],
+        "Assists": [
+            "Ardent Sacrifice"
+        ],
         "B_Passives": [
             "Seal Spd 1",
             "Seal Atk Spd 1",
@@ -1977,6 +2171,9 @@
             "Defiant Atk 2",
             "Defiant Atk 3"
         ],
+        "Assists": [
+            "Rally Speed"
+        ],
         "B_Passives": [
             "Pass 1",
             "Pass 2",
@@ -2010,6 +2207,7 @@
     },
     "Gaius (Ylissean Summer)": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Vantage 1",
             "Vantage 2",
@@ -2047,6 +2245,11 @@
     },
     "Genny": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Mend",
+            "Physic"
+        ],
         "B_Passives": [
             "Wrathful Staff 1",
             "Wrathful Staff 2",
@@ -2085,6 +2288,9 @@
             "Attack +2",
             "Attack +3"
         ],
+        "Assists": [
+            "Shove"
+        ],
         "B_Passives": [
             "Vantage 1",
             "Vantage 2",
@@ -2121,6 +2327,9 @@
             "Wind Boost 1",
             "Wind Boost 2",
             "Wind Boost 3"
+        ],
+        "Assists": [
+            "Swap"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -2159,6 +2368,9 @@
             "Armored Blow 2",
             "Armored Blow 3"
         ],
+        "Assists": [
+            "Harsh Command"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Hone Atk 1",
@@ -2192,6 +2404,7 @@
     },
     "Gwendolyn": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Drag Back"
         ],
@@ -2234,6 +2447,9 @@
             "Life and Death 2",
             "Life and Death 3"
         ],
+        "Assists": [
+            "Rally Attack"
+        ],
         "B_Passives": [
             "Obstruct 1",
             "Obstruct 2",
@@ -2271,6 +2487,7 @@
             "Death Blow 2",
             "Death Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Threaten Atk 1",
@@ -2309,6 +2526,7 @@
         "A_Passives": [
             "Distant Counter"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Atk 1",
@@ -2349,6 +2567,7 @@
             "Defiant Def 2",
             "Defiant Def 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "G Tomebreaker 1",
             "G Tomebreaker 2",
@@ -2389,6 +2608,7 @@
             "Fury 2",
             "Fury 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Brash Assault 1",
             "Brash Assault 2",
@@ -2429,6 +2649,7 @@
             "Defiant Def 2",
             "Defiant Def 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Hone Spd 1",
@@ -2469,6 +2690,7 @@
             "Heavy Blade 2",
             "Heavy Blade 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Swordbreaker 1",
             "Swordbreaker 2",
@@ -2504,12 +2726,54 @@
             "Ragnell"
         ]
     },
+    "Innes": {
+        "A_Passives": [
+            "Fortress Res 1",
+            "Fortress Res 2",
+            "Fortress Res 3"
+        ],
+        "Assists": [],
+        "B_Passives": [
+            "Cancel Affinity 1",
+            "Cancel Affinity 2",
+            "Cancel Affinity 3"
+        ],
+        "C_Passives": [],
+        "Color": "Neutral",
+        "Level 1 Stats": {
+            "Attack": "8/9/10",
+            "Defense": "3/4/5",
+            "Hp": "15/16/17",
+            "Resistance": "6/7/8",
+            "Speed": "7/8/9"
+        },
+        "Level 40 Stats": {
+            "Attack": "30/33/36",
+            "Defense": "11/14/18",
+            "Hp": "32/35/39",
+            "Resistance": "28/31/34",
+            "Speed": "31/34/37"
+        },
+        "Movement": "Infantry",
+        "Specials": [
+            "Chilling Wind",
+            "Iceberg"
+        ],
+        "Weapon Type": "Bow",
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Silver Bow",
+            "Nidhogg"
+        ]
+    },
     "Jaffar": {
         "A_Passives": [
             "Life and Death 1",
             "Life and Death 2",
             "Life and Death 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Threaten Spd 1",
@@ -2550,6 +2814,7 @@
             "Fury 2",
             "Fury 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Fortify Res 1",
@@ -2590,6 +2855,9 @@
             "Defense +2",
             "Defense +3"
         ],
+        "Assists": [
+            "Rally Resistance"
+        ],
         "B_Passives": [
             "Renewal 1",
             "Renewal 2",
@@ -2623,6 +2891,7 @@
     },
     "Jeorge": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Seal Atk 1",
             "Seal Atk 2",
@@ -2667,6 +2936,7 @@
             "Resistance +2",
             "Resistance +3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Breath of Life 1",
@@ -2707,6 +2977,7 @@
             "Warding Blow 2",
             "Warding Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Daggerbreaker 1",
             "Daggerbreaker 2",
@@ -2747,6 +3018,7 @@
             "Defiant Atk 2",
             "Defiant Atk 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Desperation 1",
             "Desperation 2",
@@ -2787,6 +3059,7 @@
             "Swift Sparrow 1",
             "Swift Sparrow 2"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Atk Ploy 1",
@@ -2827,6 +3100,7 @@
             "Death Blow 2",
             "Death Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Quick Riposte 1",
             "Quick Riposte 2",
@@ -2863,6 +3137,11 @@
     },
     "Lachesis": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Mend",
+            "Physic"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Spur Res 1",
@@ -2897,6 +3176,7 @@
     },
     "Laslow": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Axebreaker 1",
             "Axebreaker 2",
@@ -2941,6 +3221,7 @@
             "Fury 2",
             "Fury 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Obstruct 1",
             "Obstruct 2",
@@ -2977,6 +3258,7 @@
     },
     "Leo": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Quick Riposte 1",
             "Quick Riposte 2",
@@ -3015,12 +3297,51 @@
             "Brynhildr"
         ]
     },
+    "Leo (Nohrian Summer)": {
+        "A_Passives": [],
+        "Assists": [],
+        "B_Passives": [
+            "Seal Res 1",
+            "Seal Res 2",
+            "Seal Res 3"
+        ],
+        "C_Passives": [
+            "Atk Ploy 1",
+            "Atk Ploy 2",
+            "Atk Ploy 3"
+        ],
+        "Color": "Red",
+        "Level 1 Stats": {
+            "Attack": "7/8/9",
+            "Defense": "5/6/7",
+            "Hp": "17/18/19",
+            "Resistance": "6/7/8",
+            "Speed": "4/5/6"
+        },
+        "Level 40 Stats": {
+            "Attack": "29/32/35",
+            "Defense": "13/16/20",
+            "Hp": "34/37/41",
+            "Resistance": "32/35/38",
+            "Speed": "23/27/30"
+        },
+        "Movement": "Infantry",
+        "Specials": [],
+        "Weapon Type": "Tome",
+        "Weapons": [
+            "Flux",
+            "Ruin",
+            "Tomato Tome",
+            "Tomato Tome+"
+        ]
+    },
     "Leon": {
         "A_Passives": [
             "Speed +1",
             "Speed +2",
             "Speed +3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Guard 1",
             "Guard 2",
@@ -3058,6 +3379,7 @@
             "Attack +2",
             "Attack +3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Atk 1",
@@ -3098,6 +3420,9 @@
             "Speed +2",
             "Speed +3"
         ],
+        "Assists": [
+            "Ardent Sacrifice"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Fortify Res 1",
@@ -3131,6 +3456,11 @@
     },
     "Lissa": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Reconcile",
+            "Rehabilitate"
+        ],
         "B_Passives": [
             "Renewal 1",
             "Renewal 2",
@@ -3165,6 +3495,7 @@
     },
     "Lloyd": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Pass 1",
             "Pass 2",
@@ -3209,6 +3540,7 @@
             "Defiant Spd 2",
             "Defiant Spd 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Atk 1",
@@ -3245,6 +3577,9 @@
             "Darting Blow 1",
             "Swift Sparrow 1",
             "Swift Sparrow 2"
+        ],
+        "Assists": [
+            "Rally Speed"
         ],
         "B_Passives": [
             "Seal Res 1",
@@ -3283,6 +3618,11 @@
             "HP +4",
             "HP +5"
         ],
+        "Assists": [
+            "Heal",
+            "Reconcile",
+            "Martyr"
+        ],
         "B_Passives": [],
         "C_Passives": [],
         "Color": "Neutral",
@@ -3317,6 +3657,7 @@
             "Fortress Def 2",
             "Fortress Def 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Obstruct 1",
             "Obstruct 2",
@@ -3357,6 +3698,7 @@
             "Fire Boost 2",
             "Fire Boost 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Panic Ploy 1",
@@ -3397,6 +3739,7 @@
             "Defiant Atk 2",
             "Defiant Atk 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Spd 1",
@@ -3434,6 +3777,11 @@
     },
     "Lyn (Bridal Blessings)": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Reconcile",
+            "Rehabilitate"
+        ],
         "B_Passives": [
             "Dazzling Staff 1",
             "Dazzling Staff 2",
@@ -3468,6 +3816,9 @@
     },
     "Mae": {
         "A_Passives": [],
+        "Assists": [
+            "Draw Back"
+        ],
         "B_Passives": [
             "Desperation 1",
             "Desperation 2",
@@ -3505,6 +3856,11 @@
     },
     "Maria": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Mend",
+            "Physic"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Fortify Res 1",
@@ -3539,6 +3895,9 @@
     },
     "Marth": {
         "A_Passives": [],
+        "Assists": [
+            "Pivot"
+        ],
         "B_Passives": [
             "Escape Route 1",
             "Escape Route 2",
@@ -3576,6 +3935,7 @@
     },
     "Marth (Masked)": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [],
         "Color": "Red",
@@ -3605,6 +3965,9 @@
     },
     "Mathilda": {
         "A_Passives": [],
+        "Assists": [
+            "Rally Resistance"
+        ],
         "B_Passives": [
             "Cancel Affinity 1",
             "Cancel Affinity 2",
@@ -3642,6 +4005,9 @@
     },
     "Matthew": {
         "A_Passives": [],
+        "Assists": [
+            "Reciprocal Aid"
+        ],
         "B_Passives": [
             "Poison Strike 1",
             "Poison Strike 2",
@@ -3683,6 +4049,7 @@
             "HP +4",
             "HP +5"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Res 1",
@@ -3721,6 +4088,7 @@
         "A_Passives": [
             "Iote"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Threaten Def 1",
@@ -3761,6 +4129,7 @@
             "Life and Death 2",
             "Life and Death 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Def 1",
@@ -3797,6 +4166,11 @@
     },
     "Mist": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Mend",
+            "Recover"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Spur Res 1",
@@ -3831,6 +4205,7 @@
     },
     "Narcian": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Lancebreaker 1",
             "Lancebreaker 2",
@@ -3871,6 +4246,7 @@
     },
     "Navarre": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Desperation 1",
             "Desperation 2",
@@ -3915,6 +4291,7 @@
             "Warding Blow 2",
             "Warding Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Res 1",
@@ -3951,6 +4328,9 @@
     },
     "Ninian": {
         "A_Passives": [],
+        "Assists": [
+            "Dance"
+        ],
         "B_Passives": [
             "Escape Route 1",
             "Escape Route 2",
@@ -3992,6 +4372,9 @@
             "Resistance +2",
             "Resistance +3"
         ],
+        "Assists": [
+            "Draw Back"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Hone Atk 1",
@@ -4029,6 +4412,9 @@
             "Defense +2",
             "Defense +3"
         ],
+        "Assists": [
+            "Rally Defense"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Threaten Res 1",
@@ -4062,6 +4448,9 @@
     },
     "Oboro": {
         "A_Passives": [],
+        "Assists": [
+            "Rally Defense"
+        ],
         "B_Passives": [
             "Seal Def 1",
             "Seal Def 2",
@@ -4103,6 +4492,7 @@
             "Defiant Atk 2",
             "Defiant Atk 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "R Tomebreaker 1",
             "R Tomebreaker 2",
@@ -4143,6 +4533,7 @@
             "Defiant Atk 2",
             "Defiant Atk 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Atk 1",
@@ -4179,6 +4570,9 @@
     },
     "Olivia": {
         "A_Passives": [],
+        "Assists": [
+            "Dance"
+        ],
         "B_Passives": [
             "Knock Back"
         ],
@@ -4218,6 +4612,9 @@
             "Warding Blow 2",
             "Warding Blow 3"
         ],
+        "Assists": [
+            "Reposition"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Spur Res 1",
@@ -4251,6 +4648,7 @@
     },
     "Palla": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Wings of Mercy 1",
             "Wings of Mercy 2",
@@ -4295,6 +4693,7 @@
             "Resistance +2",
             "Resistance +3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Threaten Def 1",
@@ -4331,6 +4730,11 @@
     },
     "Priscilla": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Reconcile",
+            "Rehabilitate"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Spur Def 1",
@@ -4369,6 +4773,9 @@
             "HP +4",
             "HP +5"
         ],
+        "Assists": [
+            "Rally Attack"
+        ],
         "B_Passives": [
             "Seal Res 1",
             "Seal Res 2",
@@ -4406,6 +4813,7 @@
             "Defiant Spd 2",
             "Defiant Spd 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Threaten Def 1",
@@ -4446,6 +4854,9 @@
             "Darting Blow 2",
             "Darting Blow 3"
         ],
+        "Assists": [
+            "Ardent Sacrifice"
+        ],
         "B_Passives": [
             "Seal Atk 1",
             "Seal Atk 2",
@@ -4479,6 +4890,7 @@
     },
     "Reinhardt": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Vantage 1",
             "Vantage 2",
@@ -4523,6 +4935,7 @@
             "Defiant Res 2",
             "Defiant Res 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "B Tomebreaker 1",
             "B Tomebreaker 2",
@@ -4563,6 +4976,9 @@
             "HP Def 1",
             "HP Def 2"
         ],
+        "Assists": [
+            "Reposition"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Lance Valor 1",
@@ -4600,6 +5016,7 @@
             "Defiant Spd 2",
             "Defiant Spd 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Def 1",
@@ -4636,6 +5053,10 @@
     },
     "Roderick": {
         "A_Passives": [],
+        "Assists": [
+            "Rally Defense",
+            "Rally Defense Resistance"
+        ],
         "B_Passives": [
             "Drag Back"
         ],
@@ -4675,6 +5096,9 @@
             "Triangle Adept 2",
             "Triangle Adept 3"
         ],
+        "Assists": [
+            "Shove"
+        ],
         "B_Passives": [
             "Seal Def 1",
             "Seal Def 2",
@@ -4712,6 +5136,7 @@
             "Defiant Atk 2",
             "Defiant Atk 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Hone Spd 1",
@@ -4752,6 +5177,7 @@
             "HP Spd 1",
             "HP Spd 2"
         ],
+        "Assists": [],
         "B_Passives": [
             "Shield Pulse 1",
             "Shield Pulse 2",
@@ -4785,6 +5211,9 @@
     },
     "Saizo": {
         "A_Passives": [],
+        "Assists": [
+            "Harsh Command"
+        ],
         "B_Passives": [
             "Poison Strike 1",
             "Poison Strike 2",
@@ -4822,6 +5251,11 @@
     },
     "Sakura": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Mend",
+            "Physic"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Fortify Def 1",
@@ -4860,6 +5294,9 @@
             "Triangle Adept 2",
             "Triangle Adept 3"
         ],
+        "Assists": [
+            "Harsh Command"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Hone Atk 1",
@@ -4896,6 +5333,9 @@
             "Triangle Adept 1",
             "Triangle Adept 2",
             "Triangle Adept 3"
+        ],
+        "Assists": [
+            "Reposition"
         ],
         "B_Passives": [],
         "C_Passives": [
@@ -4934,6 +5374,9 @@
             "HP +4",
             "HP +5"
         ],
+        "Assists": [
+            "Rally Speed"
+        ],
         "B_Passives": [
             "Brash Assault 1",
             "Brash Assault 2",
@@ -4967,6 +5410,11 @@
     },
     "Serra": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Mend",
+            "Recover"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Hone Atk 1",
@@ -4999,11 +5447,54 @@
             "Absorb"
         ]
     },
+    "Seth": {
+        "A_Passives": [
+            "Fortress Def 1",
+            "Fortress Def 2",
+            "Fortress Def 3"
+        ],
+        "Assists": [
+            "Swap"
+        ],
+        "B_Passives": [
+            "Seal Atk 1",
+            "Seal Atk Def 1",
+            "Seal Atk Def 2"
+        ],
+        "C_Passives": [],
+        "Color": "Red",
+        "Level 1 Stats": {
+            "Attack": "7/8/9",
+            "Defense": "7/8/9",
+            "Hp": "17/18/19",
+            "Resistance": "4/5/6",
+            "Speed": "6/7/8"
+        },
+        "Level 40 Stats": {
+            "Attack": "29/32/35",
+            "Defense": "29/32/35",
+            "Hp": "34/37/41",
+            "Resistance": "19/22/25",
+            "Speed": "28/31/34"
+        },
+        "Movement": "Cavalry",
+        "Specials": [],
+        "Weapon Type": "Sword",
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Ruby Sword",
+            "Ruby Sword+"
+        ]
+    },
     "Setsuna": {
         "A_Passives": [
             "HP +3",
             "HP +4",
             "HP +5"
+        ],
+        "Assists": [
+            "Reciprocal Aid"
         ],
         "B_Passives": [
             "Bowbreaker 1",
@@ -5038,6 +5529,7 @@
     },
     "Shanna": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Desperation 1",
             "Desperation 2",
@@ -5082,6 +5574,9 @@
             "Speed +2",
             "Speed +3"
         ],
+        "Assists": [
+            "Rally Attack"
+        ],
         "B_Passives": [],
         "C_Passives": [
             "Fortify Def 1",
@@ -5117,6 +5612,7 @@
         "A_Passives": [
             "Svalinn Shield"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Fortify Def 1",
@@ -5157,6 +5653,7 @@
             "Mirror Strike 1",
             "Mirror Strike 2"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Res Ploy 1",
@@ -5194,6 +5691,7 @@
             "Warding Blow 2",
             "Warding Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Fortify Res 1",
@@ -5230,6 +5728,7 @@
     },
     "Soren": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [
             "Watersweep 1",
             "Watersweep 2",
@@ -5274,6 +5773,9 @@
             "Defense +2",
             "Defense +3"
         ],
+        "Assists": [
+            "Swap"
+        ],
         "B_Passives": [
             "Obstruct 1",
             "Obstruct 2",
@@ -5311,6 +5813,9 @@
             "Resistance +2",
             "Resistance +3"
         ],
+        "Assists": [
+            "Swap"
+        ],
         "B_Passives": [
             "Quick Riposte 1",
             "Quick Riposte 2",
@@ -5344,6 +5849,9 @@
     },
     "Sully": {
         "A_Passives": [],
+        "Assists": [
+            "Draw Back"
+        ],
         "B_Passives": [
             "Swordbreaker 1",
             "Swordbreaker 2",
@@ -5383,6 +5891,7 @@
         "A_Passives": [
             "Close Counter"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Threaten Spd 1",
@@ -5417,12 +5926,54 @@
             "Fujin Yumi"
         ]
     },
+    "Tana": {
+        "A_Passives": [
+            "Speed +1",
+            "Spd Def 1",
+            "Spd Def 2"
+        ],
+        "Assists": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Guidance 1",
+            "Guidance 2",
+            "Guidance 3"
+        ],
+        "Color": "Blue",
+        "Level 1 Stats": {
+            "Attack": "7/8/9",
+            "Defense": "5/6/7",
+            "Hp": "16/17/18",
+            "Resistance": "5/6/7",
+            "Speed": "9/10/11"
+        },
+        "Level 40 Stats": {
+            "Attack": "31/34/37",
+            "Defense": "22/25/29",
+            "Hp": "33/36/40",
+            "Resistance": "22/25/29",
+            "Speed": "33/36/39"
+        },
+        "Movement": "Flying",
+        "Specials": [
+            "New Moon",
+            "Moonbow"
+        ],
+        "Weapon Type": "Lance",
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Heavy Spear",
+            "Vidofnir"
+        ]
+    },
     "Tharja": {
         "A_Passives": [
             "Darting Blow 1",
             "Darting Blow 2",
             "Darting Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Res 1",
@@ -5463,6 +6014,7 @@
             "Defiant Atk 2",
             "Defiant Atk 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Spur Res 1",
@@ -5503,6 +6055,7 @@
             "Close Def 2",
             "Close Def 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Axe Valor 1",
@@ -5540,6 +6093,7 @@
             "Armored Blow 2",
             "Armored Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Breath of Life 1",
@@ -5580,6 +6134,9 @@
             "Armored Blow 2",
             "Armored Blow 3"
         ],
+        "Assists": [
+            "Reciprocal Aid"
+        ],
         "B_Passives": [
             "Guard 1",
             "Guard 2",
@@ -5616,6 +6173,9 @@
             "Attack +1",
             "Attack +2",
             "Attack +3"
+        ],
+        "Assists": [
+            "Pivot"
         ],
         "B_Passives": [
             "Seal Spd 1",
@@ -5654,6 +6214,7 @@
             "Death Blow 2",
             "Death Blow 3"
         ],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [
             "Threaten Res 1",
@@ -5688,33 +6249,45 @@
             "Bl\u00e1rwolf+"
         ]
     },
-    "Veronica": {
-        "A_Passives": [],
+    "Valter": {
+        "A_Passives": [
+            "Darting Blow 1",
+            "Darting Blow 2",
+            "Darting Blow 3"
+        ],
+        "Assists": [],
         "B_Passives": [],
-        "C_Passives": [],
-        "Color": "Green",
+        "C_Passives": [
+            "Panic Ploy 1",
+            "Panic Ploy 2",
+            "Panic Ploy 3"
+        ],
+        "Color": "Blue",
         "Level 1 Stats": {
-            "Attack": "?",
-            "Defense": "?",
-            "Hp": "?",
-            "Resistance": "?",
-            "Speed": "?"
+            "Attack": "9",
+            "Defense": "8",
+            "Hp": "18",
+            "Resistance": "4",
+            "Speed": "8"
         },
         "Level 40 Stats": {
-            "Attack": "?",
-            "Defense": "?",
-            "Hp": "?",
-            "Resistance": "?",
-            "Speed": "?"
+            "Attack": "32",
+            "Defense": "34",
+            "Hp": "42",
+            "Resistance": "19",
+            "Speed": "31"
         },
-        "Movement": "Infantry",
-        "Specials": [],
-        "Weapon Type": "Tome",
+        "Movement": "Flying",
+        "Specials": [
+            "New Moon",
+            "Luna"
+        ],
+        "Weapon Type": "Lance",
         "Weapons": [
-            "Wind",
-            "Elwind",
-            "Rexcalibur",
-            "\u00c9liv\u00e1gar"
+            "Iron Lance",
+            "Steel Lance",
+            "Silver Lance",
+            "Cursed Lance"
         ]
     },
     "Virion": {
@@ -5723,6 +6296,7 @@
             "Defiant Res 2",
             "Defiant Res 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Seal Spd 1",
             "Seal Spd 2",
@@ -5759,6 +6333,11 @@
     },
     "Wrys": {
         "A_Passives": [],
+        "Assists": [
+            "Heal",
+            "Reconcile",
+            "Rehabilitate"
+        ],
         "B_Passives": [
             "Live to Serve 1",
             "Live to Serve 2",
@@ -5793,6 +6372,7 @@
     },
     "Xander": {
         "A_Passives": [],
+        "Assists": [],
         "B_Passives": [],
         "C_Passives": [],
         "Color": "Red",
@@ -5822,8 +6402,49 @@
             "Siegfried"
         ]
     },
+    "Xander (Nohrian Summer)": {
+        "A_Passives": [
+            "Fire Boost 1",
+            "Fire Boost 2",
+            "Fire Boost 3"
+        ],
+        "Assists": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Infantry Pulse 1",
+            "Infantry Pulse 2",
+            "Infantry Pulse 3"
+        ],
+        "Color": "Green",
+        "Level 1 Stats": {
+            "Attack": "7/8/9",
+            "Defense": "7/8/9",
+            "Hp": "18/19/20",
+            "Resistance": "5/6/7",
+            "Speed": "5/6/7"
+        },
+        "Level 40 Stats": {
+            "Attack": "29/32/35",
+            "Defense": "33/36/39",
+            "Hp": "40/43/46",
+            "Resistance": "13/16/20",
+            "Speed": "27/30/33"
+        },
+        "Movement": "Infantry",
+        "Specials": [],
+        "Weapon Type": "Axe",
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Lilith Floatie",
+            "Lilith Floatie+"
+        ]
+    },
     "Xander (Spring Festival)": {
         "A_Passives": [],
+        "Assists": [
+            "Swap"
+        ],
         "B_Passives": [
             "Live for Honor"
         ],
@@ -5863,6 +6484,7 @@
             "Life and Death 2",
             "Life and Death 3"
         ],
+        "Assists": [],
         "B_Passives": [
             "Wary Fighter 1",
             "Wary Fighter 2",
