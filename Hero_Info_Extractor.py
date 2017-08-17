@@ -4,7 +4,7 @@ import json
 
 site = mwclient.Site('feheroes.gamepedia.com', path = '/')
 page = site.Pages['Hero List']
-list_of_names = []
+"""list_of_names = []
 names = [x for x in page.links()]
 
 
@@ -16,6 +16,11 @@ for x in names:
 temp = [x for x in list_of_names if (x != None) 
     and (x != 'None') and (x != 'Special Maps')]
 list_of_names = temp
+"""
+#Trying out a new way to get the list of hero names
+list_of_names = temp = re.findall(r"</td><td>\[\[([\w \(\)]+)\]\]</td><td data-sort-value=", 
+    site.Pages['Stats Table'].text( expandtemplates=True))
+print(list_of_names)
 """
 page.text(2) is weapons
 page.text(3) is assists
@@ -70,11 +75,8 @@ for x in list_of_names:
     color = ''
     weapon_type = ''
     temp = re.findall(r"class ?= ?(\w+) (\w+)", site.Pages[x].text(0))
-    print(x)
-    print(temp)
-    if (temp):
-        color = temp[0][0]
-        weapon_type = temp[0][1]
+    color = temp[0][0]
+    weapon_type = temp[0][1]
     output_dictionary[x]['Color'] = color
     output_dictionary[x]['Weapon Type'] = weapon_type
     
@@ -86,13 +88,7 @@ for x in list_of_names:
     output_dictionary[x]['Movement'] = movement_type
     
     #getting 5* base stats, only going to output level 40 stats for now
-    
-    hp = []
-    atk = []
-    spd = []
-    defense = []
-    res = []
-    
+
     temp = re.findall(r"Icon Rarity 5.+?span>(.+?)</table>", site.Pages[x].text(
         0, expandtemplates=True))
     stats = re.findall(r"<td>(.+?)</td>", str(temp))
@@ -120,4 +116,13 @@ for x in list_of_names:
     output_dictionary[x]['Level 40 Stats'] = level_40_stats_dictionary
     output_dictionary[x]['Level 1 Stats'] = level_1_stats_dictionary
 
+    #getting assists
+    
+    temp = re.findall(r"assist\d=([\w ]+)", site.Pages[x].text(3))
+    assist_list = []
+    for y in temp:
+        assist_list.append(y)
+    
+    output_dictionary[x]['Assists'] = assist_list
+    
 print(json.dumps(output_dictionary, sort_keys=True, indent=4))
