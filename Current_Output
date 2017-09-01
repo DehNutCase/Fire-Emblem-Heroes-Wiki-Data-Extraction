@@ -2726,6 +2726,50 @@
             "Ragnell"
         ]
     },
+    "Ike (Brave Heroes)": {
+        "A_Passives": [
+            "Steady Stance 1",
+            "Steady Stance 2",
+            "Steady Breath"
+        ],
+        "Assists": [],
+        "B_Passives": [
+            "Beorc"
+        ],
+        "C_Passives": [
+            "Threaten Def 1",
+            "Threaten Def 2",
+            "Threaten Def 3"
+        ],
+        "Color": "Green",
+        "Level 1 Stats": {
+            "Attack": "9/10/11",
+            "Defense": "8/9/10",
+            "Hp": "16/17/18",
+            "Resistance": "4/5/6",
+            "Speed": "5/6/7"
+        },
+        "Level 40 Stats": {
+            "Attack": "33/36/39",
+            "Defense": "32/35/38",
+            "Hp": "40/43/46",
+            "Resistance": "17/20/23",
+            "Speed": "24/28/31"
+        },
+        "Movement": "Infantry",
+        "Specials": [
+            "New Moon",
+            "Luna",
+            "Aether"
+        ],
+        "Weapon Type": "Axe",
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Silver Axe",
+            "Urvan"
+        ]
+    },
     "Innes": {
         "A_Passives": [
             "Fortress Res 1",
@@ -3572,6 +3616,48 @@
             "Falchion"
         ]
     },
+    "Lucina (Brave Heroes)": {
+        "A_Passives": [
+            "Armored Blow 1",
+            "Sturdy Blow 1",
+            "Sturdy Blow 2"
+        ],
+        "Assists": [],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Spd 1",
+            "Drive Spd 1",
+            "Drive Spd 2"
+        ],
+        "Color": "Blue",
+        "Level 1 Stats": {
+            "Attack": "7/8/9",
+            "Defense": "7/8/9",
+            "Hp": "16/17/18",
+            "Resistance": "3/4/5",
+            "Speed": "9/10/11"
+        },
+        "Level 40 Stats": {
+            "Attack": "31/34/37",
+            "Defense": "24/27/31",
+            "Hp": "38/41/44",
+            "Resistance": "16/19/22",
+            "Speed": "33/36/39"
+        },
+        "Movement": "Infantry",
+        "Specials": [
+            "Daylight",
+            "Sol",
+            "Aether"
+        ],
+        "Weapon Type": "Lance",
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Silver Lance",
+            "Geirsk\u00f6gul"
+        ]
+    },
     "Lucina (Spring Festival)": {
         "A_Passives": [
             "Darting Blow 1",
@@ -3773,6 +3859,49 @@
             "Steel Sword",
             "Silver Sword",
             "Sol Katti"
+        ]
+    },
+    "Lyn (Brave Heroes)": {
+        "A_Passives": [
+            "Death Blow 1",
+            "Swift Sparrow 1",
+            "Swift Sparrow 2"
+        ],
+        "Assists": [],
+        "B_Passives": [
+            "Sacae"
+        ],
+        "C_Passives": [
+            "Atk Smoke 1",
+            "Atk Smoke 2",
+            "Atk Smoke 3"
+        ],
+        "Color": "Neutral",
+        "Level 1 Stats": {
+            "Attack": "6/7/8",
+            "Defense": "4/5/6",
+            "Hp": "15/16/17",
+            "Resistance": "5/6/7",
+            "Speed": "8/9/10"
+        },
+        "Level 40 Stats": {
+            "Attack": "30/33/36",
+            "Defense": "14/18/21",
+            "Hp": "32/35/39",
+            "Resistance": "24/28/31",
+            "Speed": "32/35/38"
+        },
+        "Movement": "Cavalry",
+        "Specials": [
+            "Dragon Gaze",
+            "Draconic Aura"
+        ],
+        "Weapon Type": "Bow",
+        "Weapons": [
+            "Iron Bow",
+            "Steel Bow",
+            "Silver Bow",
+            "Mulagir"
         ]
     },
     "Lyn (Bridal Blessings)": {
@@ -5130,6 +5259,48 @@
             "Binding Blade"
         ]
     },
+    "Roy (Brave Heroes)": {
+        "A_Passives": [
+            "Darting Blow 1",
+            "Steady Blow 1",
+            "Steady Blow 2"
+        ],
+        "Assists": [],
+        "B_Passives": [
+            "Desperation 1",
+            "Desperation 2",
+            "Desperation 3"
+        ],
+        "C_Passives": [],
+        "Color": "Red",
+        "Level 1 Stats": {
+            "Attack": "7/8/9",
+            "Defense": "6/7/8",
+            "Hp": "15/16/17",
+            "Resistance": "6/7/8",
+            "Speed": "7/8/9"
+        },
+        "Level 40 Stats": {
+            "Attack": "29/32/35",
+            "Defense": "23/26/30",
+            "Hp": "34/38/41",
+            "Resistance": "21/24/27",
+            "Speed": "31/34/37"
+        },
+        "Movement": "Cavalry",
+        "Specials": [
+            "Night Sky",
+            "Astra",
+            "Galeforce"
+        ],
+        "Weapon Type": "Sword",
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Blazing Durandal"
+        ]
+    },
     "Ryoma": {
         "A_Passives": [
             "Defiant Atk 1",
@@ -6264,11 +6435,11 @@
         ],
         "Color": "Blue",
         "Level 1 Stats": {
-            "Attack": "9",
+            "Attack": "8",
             "Defense": "8",
             "Hp": "18",
             "Resistance": "4",
-            "Speed": "8"
+            "Speed": "9"
         },
         "Level 40 Stats": {
             "Attack": "32",
