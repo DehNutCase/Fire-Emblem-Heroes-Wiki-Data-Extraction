@@ -20,7 +20,6 @@ list_of_names = temp
 #Trying out a new way to get the list of hero names
 list_of_names = temp = re.findall(r"</td><td>\[\[([\w \(\)]+)\]\]</td><td data-sort-value=", 
     site.Pages['Stats Table'].text( expandtemplates=True))
-print(list_of_names)
 """
 page.text(2) is weapons
 page.text(3) is assists
@@ -45,19 +44,19 @@ for x in list_of_names:
    
     
     a_passive_list = []
-    temp = re.findall(r"passiveA\d=([\w \+]+)", site.Pages[x].text(5))
+    temp = re.findall(r"passiveA\d=(['\w \+]+)", site.Pages[x].text(5))
     for y in temp:
         a_passive_list.append(y)
     output_dictionary[x]['A_Passives'] = a_passive_list
     
     b_passive_list = []
-    temp = re.findall(r"passiveB\d=([\w \+]+)", site.Pages[x].text(5))
+    temp = re.findall(r"passiveB\d=(['\w \+]+)", site.Pages[x].text(5))
     for y in temp:
         b_passive_list.append(y)
     output_dictionary[x]['B_Passives'] = b_passive_list
     
     c_passive_list = []
-    temp = re.findall(r"passiveC\d=([\w \+]+)", site.Pages[x].text(5))
+    temp = re.findall(r"passiveC\d=(['\w \+]+)", site.Pages[x].text(5))
     for y in temp:
         c_passive_list.append(y)
     output_dictionary[x]['C_Passives'] = c_passive_list
@@ -65,7 +64,7 @@ for x in list_of_names:
     #getting specials
     
     special_list = []
-    temp = re.findall(r"special\d=([\w ]+)", site.Pages[x].text(4))
+    temp = re.findall(r"special\d=(['\w ]+)", site.Pages[x].text(4))
     for y in temp:
         special_list.append(y)
     output_dictionary[x]['Specials'] = special_list
@@ -125,4 +124,5 @@ for x in list_of_names:
     
     output_dictionary[x]['Assists'] = assist_list
     
-print(json.dumps(output_dictionary, sort_keys=True, indent=4))
+with open('output.txt', 'w') as output_file:
+    output_file.write(json.dumps(output_dictionary, sort_keys=True, indent=4))
