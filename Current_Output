@@ -766,7 +766,7 @@
     },
     "Camus": {
         "A_Passives": [
-            "Grani"
+            "Grani's Shield"
         ],
         "Assists": [],
         "B_Passives": [],
@@ -2734,7 +2734,7 @@
         ],
         "Assists": [],
         "B_Passives": [
-            "Beorc"
+            "Beorc's Blessing"
         ],
         "C_Passives": [
             "Threaten Def 1",
@@ -3869,7 +3869,7 @@
         ],
         "Assists": [],
         "B_Passives": [
-            "Sacae"
+            "Sacae's Blessing"
         ],
         "C_Passives": [
             "Atk Smoke 1",
@@ -4215,7 +4215,7 @@
     },
     "Michalis": {
         "A_Passives": [
-            "Iote"
+            "Iote's Shield"
         ],
         "Assists": [],
         "B_Passives": [],
