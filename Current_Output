@@ -364,6 +364,46 @@
             "Sapphire Lance+"
         ]
     },
+    "Azura (Performing Arts)": {
+        "A_Passives": [
+            "Triangle Adept 1",
+            "Triangle Adept 2",
+            "Triangle Adept 3"
+        ],
+        "Assists": [
+            "Sing"
+        ],
+        "B_Passives": [],
+        "C_Passives": [
+            "Spur Res 1",
+            "Drive Res 1",
+            "Drive Res 2"
+        ],
+        "Color": "Green",
+        "Level 1 Stats": {
+            "Attack": "5/6/7",
+            "Defense": "2/3/4",
+            "Hp": "15/16/17",
+            "Resistance": "5/6/7",
+            "Speed": "7/8/9"
+        },
+        "Level 40 Stats": {
+            "Attack": "29/32/35",
+            "Defense": "17/20/23",
+            "Hp": "32/35/39",
+            "Resistance": "24/28/31",
+            "Speed": "31/34/37"
+        },
+        "Movement": "Infantry",
+        "Specials": [],
+        "Weapon Type": "Axe",
+        "Weapons": [
+            "Iron Axe",
+            "Steel Axe",
+            "Silver Axe",
+            "Ur\u00f0r"
+        ]
+    },
     "Barst": {
         "A_Passives": [],
         "Assists": [
@@ -522,6 +562,48 @@
             "Killer Axe+"
         ]
     },
+    "Black Knight": {
+        "A_Passives": [
+            "Steady Stance 1",
+            "Steady Stance 2",
+            "Steady Stance 3"
+        ],
+        "Assists": [],
+        "B_Passives": [
+            "Wings of Mercy 1",
+            "Wings of Mercy 2",
+            "Wings of Mercy 3"
+        ],
+        "C_Passives": [],
+        "Color": "Red",
+        "Level 1 Stats": {
+            "Attack": "10",
+            "Defense": "9",
+            "Hp": "22",
+            "Resistance": "5",
+            "Speed": "8"
+        },
+        "Level 40 Stats": {
+            "Attack": "34",
+            "Defense": "35",
+            "Hp": "48",
+            "Resistance": "18",
+            "Speed": "34"
+        },
+        "Movement": "Armored",
+        "Specials": [
+            "New Moon",
+            "Luna",
+            "Black Luna"
+        ],
+        "Weapon Type": "Sword",
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Alondite"
+        ]
+    },
     "Boey": {
         "A_Passives": [
             "Earth Boost 1",
@@ -606,8 +688,8 @@
     "Caeda (Bridal Blessings)": {
         "A_Passives": [
             "Resistance +1",
-            "Attack Res +1",
-            "Attack Res +2"
+            "Attack Res 1",
+            "Attack Res 2"
         ],
         "Assists": [],
         "B_Passives": [],
@@ -1677,6 +1759,46 @@
             "Steel Sword",
             "Killing Edge",
             "Mystletainn"
+        ]
+    },
+    "Elincia": {
+        "A_Passives": [
+            "Death Blow 1",
+            "Death Blow 2",
+            "Death Blow 3"
+        ],
+        "Assists": [
+            "Ardent Sacrifice"
+        ],
+        "B_Passives": [
+            "Flier Formation 1",
+            "Flier Formation 2",
+            "Flier Formation 3"
+        ],
+        "C_Passives": [],
+        "Color": "Red",
+        "Level 1 Stats": {
+            "Attack": "7/8/9",
+            "Defense": "4/5/6",
+            "Hp": "15/16/17",
+            "Resistance": "7/8/9",
+            "Speed": "9/10/11"
+        },
+        "Level 40 Stats": {
+            "Attack": "31/34/37",
+            "Defense": "21/24/28",
+            "Hp": "32/35/39",
+            "Resistance": "24/27/31",
+            "Speed": "33/36/39"
+        },
+        "Movement": "Flying",
+        "Specials": [],
+        "Weapon Type": "Sword",
+        "Weapons": [
+            "Iron Sword",
+            "Steel Sword",
+            "Silver Sword",
+            "Amiti"
         ]
     },
     "Elise": {
@@ -2768,6 +2890,46 @@
             "Steel Axe",
             "Silver Axe",
             "Urvan"
+        ]
+    },
+    "Inigo (Performing Arts)": {
+        "A_Passives": [],
+        "Assists": [
+            "Dance"
+        ],
+        "B_Passives": [
+            "Gale Dance 1",
+            "Gale Dance 2",
+            "Gale Dance 3"
+        ],
+        "C_Passives": [
+            "Hone Atk 1",
+            "Hone Atk 2",
+            "Hone Atk 3"
+        ],
+        "Color": "Green",
+        "Level 1 Stats": {
+            "Attack": "5/6/7",
+            "Defense": "4/5/6",
+            "Hp": "14/15/16",
+            "Resistance": "2/3/4",
+            "Speed": "6/7/8"
+        },
+        "Level 40 Stats": {
+            "Attack": "24/28/31",
+            "Defense": "19/22/25",
+            "Hp": "33/37/40",
+            "Resistance": "17/20/23",
+            "Speed": "30/33/36"
+        },
+        "Movement": "Infantry",
+        "Specials": [],
+        "Weapon Type": "Tome",
+        "Weapons": [
+            "Wind",
+            "Elwind",
+            "Dancer's Ring",
+            "Dancer's Ring+"
         ]
     },
     "Innes": {
@@ -4414,6 +4576,47 @@
             "Killing Edge+"
         ]
     },
+    "Nephenee": {
+        "A_Passives": [
+            "Speed +1",
+            "Atk Spd 1",
+            "Atk Spd 2"
+        ],
+        "Assists": [],
+        "B_Passives": [
+            "Wrath 1",
+            "Wrath 2",
+            "Wrath 3"
+        ],
+        "C_Passives": [],
+        "Color": "Blue",
+        "Level 1 Stats": {
+            "Attack": "6/7/8",
+            "Defense": "7/8/9",
+            "Hp": "17/18/19",
+            "Resistance": "4/5/6",
+            "Speed": "8/9/10"
+        },
+        "Level 40 Stats": {
+            "Attack": "28/31/34",
+            "Defense": "31/34/37",
+            "Hp": "34/37/41",
+            "Resistance": "17/20/23",
+            "Speed": "32/35/38"
+        },
+        "Movement": "Infantry",
+        "Specials": [
+            "New Moon",
+            "Moonbow"
+        ],
+        "Weapon Type": "Lance",
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Slaying Lance",
+            "Slaying Lance+"
+        ]
+    },
     "Niles": {
         "A_Passives": [
             "Warding Blow 1",
@@ -4735,6 +4938,46 @@
             "Silver Sword+"
         ]
     },
+    "Olivia (Performing Arts)": {
+        "A_Passives": [
+            "Distant Def 1",
+            "Distant Def 2",
+            "Distant Def 3"
+        ],
+        "Assists": [
+            "Dance"
+        ],
+        "B_Passives": [
+            "Blaze Dance 1",
+            "Blaze Dance 2",
+            "Blaze Dance 3"
+        ],
+        "C_Passives": [],
+        "Color": "Neutral",
+        "Level 1 Stats": {
+            "Attack": "5/6/7",
+            "Defense": "2/3/4",
+            "Hp": "14/15/16",
+            "Resistance": "3/4/5",
+            "Speed": "7/8/9"
+        },
+        "Level 40 Stats": {
+            "Attack": "24/28/31",
+            "Defense": "12/16/19",
+            "Hp": "31/34/38",
+            "Resistance": "25/28/31",
+            "Speed": "31/34/37"
+        },
+        "Movement": "Infantry",
+        "Specials": [],
+        "Weapon Type": "Dagger",
+        "Weapons": [
+            "Iron Dagger",
+            "Steel Dagger",
+            "Dancer's Fan",
+            "Dancer's Fan+"
+        ]
+    },
     "Olwen": {
         "A_Passives": [
             "Warding Blow 1",
@@ -4773,6 +5016,47 @@
             "Elthunder",
             "Thoron",
             "Dire Thunder"
+        ]
+    },
+    "Oscar": {
+        "A_Passives": [],
+        "Assists": [
+            "Rally Speed",
+            "Rally Speed Defense"
+        ],
+        "B_Passives": [
+            "Lancebreaker 1",
+            "Lancebreaker 2",
+            "Lancebreaker 3"
+        ],
+        "C_Passives": [
+            "Spur Def 1",
+            "Spur Spd Def 1",
+            "Spur Spd Def 2"
+        ],
+        "Color": "Blue",
+        "Level 1 Stats": {
+            "Attack": "6/7/8",
+            "Defense": "6/7/8",
+            "Hp": "17/18/19",
+            "Resistance": "5/6/7",
+            "Speed": "7/8/9"
+        },
+        "Level 40 Stats": {
+            "Attack": "30/33/36",
+            "Defense": "23/26/30",
+            "Hp": "36/40/43",
+            "Resistance": "18/21/24",
+            "Speed": "31/34/37"
+        },
+        "Movement": "Cavalry",
+        "Specials": [],
+        "Weapon Type": "Lance",
+        "Weapons": [
+            "Iron Lance",
+            "Steel Lance",
+            "Sapphire Lance",
+            "Sapphire Lance+"
         ]
     },
     "Palla": {
@@ -5816,6 +6100,46 @@
             "Steel Axe",
             "Killer Axe",
             "Killer Axe+"
+        ]
+    },
+    "Shigure (Performing Arts)": {
+        "A_Passives": [],
+        "Assists": [
+            "Sing"
+        ],
+        "B_Passives": [
+            "Torrent Dance 1",
+            "Geyser Dance 1",
+            "Geyser Dance 2"
+        ],
+        "C_Passives": [
+            "B Tome Valor 1",
+            "B Tome Valor 2",
+            "B Tome Valor 3"
+        ],
+        "Color": "Blue",
+        "Level 1 Stats": {
+            "Attack": "6/7/8",
+            "Defense": "3/4/5",
+            "Hp": "14/15/16",
+            "Resistance": "4/5/6",
+            "Speed": "4/5/6"
+        },
+        "Level 40 Stats": {
+            "Attack": "28/31/34",
+            "Defense": "18/21/24",
+            "Hp": "31/34/38",
+            "Resistance": "21/24/28",
+            "Speed": "26/29/32"
+        },
+        "Movement": "Infantry",
+        "Specials": [],
+        "Weapon Type": "Tome",
+        "Weapons": [
+            "Thunder",
+            "Elthunder",
+            "Dancer's Score",
+            "Dancer's Score+"
         ]
     },
     "Sonya": {
